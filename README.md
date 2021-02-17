@@ -10,78 +10,78 @@
 > ### Contributions are very welcome!
 
 
-### :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Calculus):
+### :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Calculus):
 
 - #### Lecture Notes by Paul Dawkins — [Original Source](https://tutorial.math.lamar.edu/)
 
-- #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
+- #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
 
 
-### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Linear-Algebra):
+### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra):
 
-- #### [Lecture notes by Zico Kolter](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Linear-Algebra/kolter.pdf) — [Original Source](http://cs229.stanford.edu/notes2020fall/notes2020fall/linalg2.pdf)
+- #### [Lecture notes by Zico Kolter](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/kolter.pdf) — [Original Source](http://cs229.stanford.edu/notes2020fall/notes2020fall/linalg2.pdf)
 
-- #### [Lecture slides by Stephen Boyd and Lieven Vandenberghe](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Linear-Algebra/boyd_and_vandenberghe.pdf) — [Original Source](http://vmls-book.stanford.edu/)
+- #### [Lecture slides by Stephen Boyd and Lieven Vandenberghe](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/boyd_and_vandenberghe.pdf) — [Original Source](http://vmls-book.stanford.edu/)
 
-- #### [Cheatsheet by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Linear-Algebra/savov_cheatsheet.pdf) and [Concept maps by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Linear-Algebra/savov_concept_maps.pdf) — [Original Source](https://minireference.com/)
+- #### [Cheatsheet by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/savov_cheatsheet.pdf) and [Concept maps by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/savov_concept_maps.pdf) — [Original Source](https://minireference.com/)
 
 - #### Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller — [Original Source](http://immersivemath.com/ila/tableofcontents.html)
 
 
-### :game_die: [Probability Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory):
+### :game_die: [Probability Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory):
 
-- #### [Cheatsheet by Peleg Michaeli](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory/michaeli.pdf) — [Original Source](https://web.cs.elte.hu/~mesti/valszam/kepletek)
+- #### [Cheatsheet by Peleg Michaeli](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/michaeli.pdf) — [Original Source](https://web.cs.elte.hu/~mesti/valszam/kepletek)
 
-- #### [Cheatsheet by Fabián Kozynski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory/kozynski.pdf) — [Original Source](https://github.com/mitx-data-science/6.431x)
+- #### [Cheatsheet by Fabián Kozynski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/kozynski.pdf) — [Original Source](https://github.com/mitx-data-science/6.431x)
 
-- #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/6431xProbability)
+- #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/6431xProbability)
 
-- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
+- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
 
-- #### [Cheatsheet by William Chen and Joe Blitzstein](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
+- #### [Cheatsheet by William Chen and Joe Blitzstein](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
 
-- #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Probability-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
-
-
-### :bar_chart: [Statistical Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Statistical-Theory)
-
-- #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Statistical-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/186501xStatistics)
-
-- #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Statistical-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+- #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 
 
-### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Discrete-Mathematics):
+### :bar_chart: [Statistical Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Statistical-Theory)
 
-- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
+- #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Statistical-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/186501xStatistics)
 
-
-### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Group-Theory):
-
-- #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
-
-- #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
+- #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Statistical-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 
 
-### :robot: [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Machine-Learning):
+### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
 
-- #### [Cheatsheet by Aaron Wang](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Machine-Learning/wang.pdf) — [Original Source](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
 
-- #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
+
+### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory):
+
+- #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
+
+- #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
+
+
+### :robot: [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning):
+
+- #### [Cheatsheet by Aaron Wang](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/wang.pdf) — [Original Source](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+
+- #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
 
 - #### Deep Learning course lectures by Sargur Srihari — [Original Source](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 
 - #### Machine Learning course lectures by Sargur Srihari — [Original Source](https://cedar.buffalo.edu/~srihari/CSE574/index.html)
 
-- #### [Artificial Intelligence](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Machine-Learning/amidi_twins_ai.pdf), [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Machine-Learning/amidi_twins_ml.pdf) and [Deep Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Machine-Learning/amidi_twins_dl.pdf) cheatsheets by Afshine Amidi and Shervine Amidi — [Original Source](https://github.com/afshinea)
+- #### [Artificial Intelligence](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins_ai.pdf), [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins_ml.pdf) and [Deep Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins_dl.pdf) cheatsheets by Afshine Amidi and Shervine Amidi — [Original Source](https://github.com/afshinea)
 
 
-### :man_juggling: [Mixed Topics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Mixed-Topics):
+### :man_juggling: [Mixed Topics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics):
 
-- #### [Algebra cheatsheet by Alex Spartalis](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Mixed-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
+- #### [Algebra cheatsheet by Alex Spartalis](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
 
-- #### [Algebra cheatsheet by Rutuj Gavankar](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Mixed-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
+- #### [Algebra cheatsheet by Rutuj Gavankar](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
 
-- #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/Mixed-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
+- #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
 
 
 <!-- MARKDOWN LINKS -->
@@ -92,4 +92,4 @@
 [forks-shield]: https://img.shields.io/github/forks/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
 [forks-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/network/members
 [license-shield]: https://img.shields.io/github/license/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
-[license-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/main/LICENSE.md
+[license-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/LICENSE.md
