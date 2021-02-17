@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 
 <p align="center">
-    <img src="logo.gif">
+    <img src="https://bleuje.github.io/gifset/2020/gifs/2020_16_threetrees.gif">
 </p>
 
 <h4 align="center"> 
