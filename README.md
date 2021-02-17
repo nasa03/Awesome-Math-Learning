@@ -1,9 +1,17 @@
 # :man_teacher: **Awesome Math Cheatsheets** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
-[![MIT License][license-shield]][license-url]
+
+<p align="center">
+    <img src="logo.gif">
+</p>
+
+<h4 align="center"> 
+    <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
+</h4>
 
 ## :scroll: Collection of the best math cheatsheet materials available on the web.
 
@@ -87,9 +95,9 @@
 <!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
 [contributors-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
+[issues-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/issues
 [stars-shield]: https://img.shields.io/github/stars/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
 [stars-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/stargazers
 [forks-shield]: https://img.shields.io/github/forks/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
 [forks-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/network/members
-[license-shield]: https://img.shields.io/github/license/geotrush/Awesome-Math-Cheatsheets.svg?style=for-the-badge
-[license-url]: https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/LICENSE.md
