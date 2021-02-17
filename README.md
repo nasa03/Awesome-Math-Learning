@@ -36,6 +36,18 @@
 - #### Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller — [Original Source](http://immersivemath.com/ila/tableofcontents.html)
 
 
+### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
+
+- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
+
+
+### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory):
+
+- #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
+
+- #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
+
+
 ### :game_die: [Probability Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory):
 
 - #### [Cheatsheet by Peleg Michaeli](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory/michaeli.pdf) — [Original Source](https://web.cs.elte.hu/~mesti/valszam/kepletek)
@@ -56,18 +68,6 @@
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Statistical-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/186501xStatistics)
 
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Statistical-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
-
-
-### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
-
-- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
-
-
-### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory):
-
-- #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
-
-- #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
 
 
 ### :robot: [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning):
