@@ -72,7 +72,11 @@
 
 ### :robot: [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning):
 
+- #### [Cheatsheet by Frank Dai](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/dai.pdf) — [Original Source](https://github.com/soulmachine/machine-learning-cheat-sheet)
+
 - #### [Cheatsheet by Aaron Wang](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/wang.pdf) — [Original Source](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+
+- #### [Cheatsheet by Aqeel Anwar](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/anwar.pdf) — [Original Source](https://sites.google.com/view/datascience-cheat-sheets/machine-learning_1?authuser=0)
 
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
 
