@@ -20,12 +20,18 @@
 
 ### :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Calculus):
 
-- #### Lecture Notes by Paul Dawkins — [Original Source](https://tutorial.math.lamar.edu/)
+- #### [Lecture notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
 
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
 
 
 ### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra):
+
+- #### [Lectures by Ahmad Bazzi](https://www.youtube.com/playlist?list=PL-DDW8QIRjNOv5V6wqyCn781CY8_znkKh)
+
+- #### [Lectures by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+
+- #### [Lectures by Rachel Thomas](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 - #### [Lecture notes by Zico Kolter](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/kolter.pdf) — [Original Source](http://cs229.stanford.edu/notes2020fall/notes2020fall/linalg2.pdf)
 
@@ -33,7 +39,7 @@
 
 - #### [Cheatsheet by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/savov_cheatsheet.pdf) and [Concept maps by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/savov_concept_maps.pdf) — [Original Source](https://minireference.com/)
 
-- #### Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller — [Original Source](http://immersivemath.com/ila/tableofcontents.html)
+- #### [Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller](http://immersivemath.com/ila/tableofcontents.html)
 
 
 ### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
@@ -80,11 +86,11 @@
 
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
 
-- #### Deep Learning course lectures by Sargur Srihari — [Original Source](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
+- #### [Deep Learning course lectures by Sargur Srihari](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 
-- #### Machine Learning course lectures by Sargur Srihari — [Original Source](https://cedar.buffalo.edu/~srihari/CSE574/index.html)
+- #### [Machine Learning course lectures by Sargur Srihari](https://cedar.buffalo.edu/~srihari/CSE574/index.html)
 
-- #### [Artificial Intelligence](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins_ai.pdf), [Machine Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins_ml.pdf) and [Deep Learning](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins_dl.pdf) cheatsheets by Afshine Amidi and Shervine Amidi — [Original Source](https://github.com/afshinea)
+- #### [Cheatsheets by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
 
 
 ### :man_juggling: [Mixed Topics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics):
