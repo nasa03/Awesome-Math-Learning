@@ -27,6 +27,8 @@
 
 ### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
 
+- #### [Lectures by Sarada Herke](https://www.youtube.com/c/SaradaHerke/playlists?view=50&sort=dd&shelf_id=5)
+
 - #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
 
 
@@ -38,8 +40,6 @@
 
 
 ### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra):
-
-- #### [Lectures by Ahmad Bazzi](https://www.youtube.com/playlist?list=PL-DDW8QIRjNOv5V6wqyCn781CY8_znkKh)
 
 - #### [Lectures by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 
