@@ -25,6 +25,18 @@
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
 
 
+### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
+
+- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
+
+
+### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory):
+
+- #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
+
+- #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
+
+
 ### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra):
 
 - #### [Lectures by Ahmad Bazzi](https://www.youtube.com/playlist?list=PL-DDW8QIRjNOv5V6wqyCn781CY8_znkKh)
@@ -40,18 +52,6 @@
 - #### [Cheatsheet by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/savov_cheatsheet.pdf) and [Concept maps by Ivan Savov](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/savov_concept_maps.pdf) — [Original Source](https://minireference.com/)
 
 - #### [Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller](http://immersivemath.com/ila/tableofcontents.html)
-
-
-### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
-
-- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
-
-
-### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory):
-
-- #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
-
-- #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
 
 
 ### :game_die: [Probability Theory](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Probability-Theory):
@@ -86,9 +86,7 @@
 
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
 
-- #### [Deep Learning course lectures by Sargur Srihari](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
-
-- #### [Machine Learning course lectures by Sargur Srihari](https://cedar.buffalo.edu/~srihari/CSE574/index.html)
+- #### [Machine Learning](https://cedar.buffalo.edu/~srihari/CSE574/index.html) and [Deep Learning](https://cedar.buffalo.edu/~srihari/CSE676/index.html) lectures by Sargur Srihari
 
 - #### [Cheatsheets by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
 
