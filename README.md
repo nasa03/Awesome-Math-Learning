@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 
 <p align="center">
-    <img src="https://bleuje.github.io/gifset/2020/gifs/2020_16_threetrees.gif">
+    <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
 </p>
 
 <h4 align="center"> 
@@ -23,6 +23,8 @@
 - #### [Lecture notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
 
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
+
+- #### [Multivariable Calculus](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) and [Differential Equations](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) lectures by Jeffrey Chasnov
 
 
 ### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Discrete-Mathematics):
@@ -41,9 +43,13 @@
 
 ### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra):
 
+- #### [Lectures by Ahmad Bazzi](https://www.youtube.com/playlist?list=PL-DDW8QIRjNOv5V6wqyCn781CY8_znkKh)
+
 - #### [Lectures by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 
 - #### [Lectures by Rachel Thomas](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+
+- #### [Lectures by Jeffrey Chasnov](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)
 
 - #### [Lecture notes by Zico Kolter](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra/kolter.pdf) — [Original Source](http://cs229.stanford.edu/notes2020fall/notes2020fall/linalg2.pdf)
 
@@ -96,6 +102,8 @@
 - #### [Algebra cheatsheet by Alex Spartalis](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
 
 - #### [Algebra cheatsheet by Rutuj Gavankar](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
+
+- #### [Mathematics for Machine Learning lectures by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
 - #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Mixed-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
 
