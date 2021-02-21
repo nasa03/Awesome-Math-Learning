@@ -40,6 +40,8 @@
 
 - #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
 
+- #### [Cheatsheet by Per Alexandersson](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Group-Theory/alexandersson.pdf) — [Original Source](https://www2.math.upenn.edu/~peal/files/Group.Theory[2018][Eng]-ALEXANDERSSON.pdf)
+
 
 ### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Cheatsheets/blob/master/Linear-Algebra):
 
