@@ -22,6 +22,8 @@
 
 - #### [Lecture notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
 
+- #### [Lecture notes by Samuel Coskey](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus/coskey.pdf) — [Original Source](https://github.com/scoskey/m314)
+
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
 
 - #### [Multivariable Calculus](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) and [Differential Equations](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) lectures by Jeffrey Chasnov
@@ -37,6 +39,8 @@
 ### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory):
 
 - #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
+
+- #### [Lecture notes by Samuel Coskey](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/coskey.pdf) — [Original Source](https://github.com/scoskey/m522)
 
 - #### [Cheatsheet by Matthias Vallentin](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/vallentin.pdf) — [Original Source](https://github.com/mavam/abstract-algebra-cheatsheet)
 
@@ -56,6 +60,8 @@
 - #### [Lectures by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtXb7O-kPaEhAtFEb3n9Huu)
 
 - #### [Lecture notes by Zico Kolter](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Linear-Algebra/kolter.pdf) — [Original Source](http://cs229.stanford.edu/notes2020fall/notes2020fall/linalg2.pdf)
+
+- #### [Lecture notes by Samuel Coskey](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Linear-Algebra/coskey.pdf) — [Original Source](https://github.com/scoskey/m301)
 
 - #### [Lecture slides by Stephen Boyd and Lieven Vandenberghe](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Linear-Algebra/boyd_and_vandenberghe.pdf) — [Original Source](http://vmls-book.stanford.edu/)
 
@@ -107,10 +113,12 @@
 
 - #### [Lectures by Gautam Iyer](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/iyer.pdf) — [Original Source](https://www.math.cmu.edu/~gautam/sj/teaching/2020-21/720-measure/pdfs/measure.pdf)
 
+- #### [Lecture notes by Samuel Coskey](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/coskey.pdf) — [Original Source](https://github.com/scoskey/m515)
+
 
 ### :man_juggling: [Mixed Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Mixed-Topics):
 
-- #### [All kinds of math lecture notes](https://www.math.miami.edu/~dsolis/notes.html)
+- #### [Collection of lecture notes](https://www.math.miami.edu/~dsolis/notes.html)
 
 - #### [Functional Analysis lectures by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 
