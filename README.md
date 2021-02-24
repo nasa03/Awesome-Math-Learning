@@ -61,6 +61,8 @@
 
 - #### [Cheatsheet by Per Alexandersson](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/alexandersson.pdf) — [Original Source](https://www2.math.upenn.edu/~peal/files/Group.Theory[2018][Eng]-ALEXANDERSSON.pdf)
 
+- #### [Cheatsheet by Edward O'Callaghan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/o'callaghan.pdf) — [Original Source](https://github.com/victoredwardocallaghan/openware/tree/master/Introduction%20to%20Category%20Theory)
+
 
 ### :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Linear-Algebra):
 
@@ -104,6 +106,8 @@
 
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Statistical-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/186501xStatistics)
 
+- #### [Cheatsheet by Edward O'Callaghan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Statistical-Theory/o'callaghan.pdf) — [Original Source](https://github.com/victoredwardocallaghan/openware/tree/master/Theory%20of%20Statistics)
+
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Statistical-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 
 
@@ -120,6 +124,10 @@
 - #### [Machine Learning](https://cedar.buffalo.edu/~srihari/CSE574/index.html) and [Deep Learning](https://cedar.buffalo.edu/~srihari/CSE676/index.html) lectures by Sargur Srihari
 
 - #### [Cheatsheets by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
+
+- #### [Statistical Learning Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_slt.pdf) and [Natural Language Understanding](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_nlu.pdf) notes by Doruk Çetin — [Original Source](https://github.com/dcetin/eth-cs-notes/blob/master/notes)
+
+- #### [Essential Machine Learning](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_eml.pdf) and [Advanced Machine Learning](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_aml.pdf) cheatsheets by Doruk Çetin — [Original Source](https://github.com/dcetin/eth-cs-notes/tree/master/cheatsheets)
 
 
 ### :triangular_ruler: [Measure Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory):
@@ -145,6 +153,13 @@
 - #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Set-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/orderedsets/Mainorder.pdf)
 
 
+### :globe_with_meridians: [Topology](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology):
+
+- #### [Lecture notes by Daniel Chan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/chan.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/algtop15a/algtop_notes.pdf)
+
+- #### [Cheatsheet by Edward O'Callaghan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/o'callaghan.pdf) — [Original Source](https://github.com/victoredwardocallaghan/openware/tree/master/Topology)
+
+
 ### :slot_machine: [Random Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics):
 
 - #### [Collection of lecture notes on all kinds of topics](https://www.math.miami.edu/~dsolis/notes.html)
@@ -152,8 +167,6 @@
 - #### [Functional Analysis lectures by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 
 - #### [Mathematics for Machine Learning lectures by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
-
-- #### [Algebraic Topology lecture notes by Daniel Chan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/chan.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/algtop15a/algtop_notes.pdf)
 
 - #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
 
