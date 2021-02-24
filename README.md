@@ -29,14 +29,29 @@
 - #### [Multivariable Calculus](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) and [Differential Equations](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) lectures by Jeffrey Chasnov
 
 
-### :diamond_shape_with_a_dot_inside: [Discrete Mathematics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Discrete-Mathematics):
+### :man_juggling: [Combinatorics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Combinatorics):
+
+- #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Combinatorics/harju.pdf) — [Original Source](https://users.utu.fi/harju/combinenum/MainEn.pdf)
+
+
+### :diamond_shape_with_a_dot_inside: [Graph Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory):
 
 - #### [Lectures by Sarada Herke](https://www.youtube.com/c/SaradaHerke/playlists?view=50&sort=dd&shelf_id=5)
 
-- #### [Cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
+- #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/graphtheory/graphtheory.pdf)
+
+- #### [Lecture notes by Vadim Lozin](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory/lozin.pdf) — [Original Source](https://homepages.warwick.ac.uk/~masgax/Graph-Theory-notes.pdf)
+
+- #### [Lecture notes by Maria Axenovich](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory/axenovich.pdf) — [Original Source](https://www.math.kit.edu/iag6/lehre/graphtheo2015w/media/lecture_notes.pdf)
+
+- #### [Lecture notes by Catherine Greenhill](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory/greenhill.pdf) — [Original Source](https://github.com/skityl/GraphTheory/blob/master/Notes/math5425-summarynotes.pdf)
 
 
 ### :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory):
+
+- #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/semigroups/Semigroups.pdf)
+
+- #### [Lecture notes by Joel Beeren](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/beeren.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/modules12/beeren_notes.pdf)
 
 - #### [Cheatsheet by Brendan Kidwell](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/kidwell.pdf) — [Original Source](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
 
@@ -113,22 +128,44 @@
 
 - #### [Lectures by Gautam Iyer](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/iyer.pdf) — [Original Source](https://www.math.cmu.edu/~gautam/sj/teaching/2020-21/720-measure/pdfs/measure.pdf)
 
+- #### [Lecture notes by Peter Straka](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/straka.pdf) — [Original Source](https://github.com/skityl/MeasureTheory/blob/master/Notes/A4pages.pdf)
+
 - #### [Lecture notes by Samuel Coskey](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/coskey.pdf) — [Original Source](https://github.com/scoskey/m515)
 
+- #### [Lecture notes by Steven Nguyen](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/nguyen.pdf) — [Original Source](https://github.com/skityl/MeasureTheory/blob/master/Notes/math5825_lecture_notes.pdf)
 
-### :man_juggling: [Mixed Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Mixed-Topics):
 
-- #### [Collection of lecture notes](https://www.math.miami.edu/~dsolis/notes.html)
+### :abacus: [Number Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Number-Theory):
+
+- #### [Lecture notes by Alina Ostafe](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Number-Theory/ostafe.pdf) — [Original Source](https://github.com/skityl/NumberTheory/tree/master/Notes)
+
+
+### :basket: [Set Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Set-Theory):
+
+- #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Set-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/orderedsets/Mainorder.pdf)
+
+
+### :slot_machine: [Random Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics):
+
+- #### [Collection of lecture notes on all kinds of topics](https://www.math.miami.edu/~dsolis/notes.html)
 
 - #### [Functional Analysis lectures by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 
-- #### [Algebra cheatsheet by Alex Spartalis](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Mixed-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
-
-- #### [Algebra cheatsheet by Rutuj Gavankar](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Mixed-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
-
 - #### [Mathematics for Machine Learning lectures by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
-- #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Mixed-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
+- #### [Algebraic Topology lecture notes by Daniel Chan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/chan.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/algtop15a/algtop_notes.pdf)
+
+- #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
+
+- #### [All-In-One Mathematics cheatsheet by Alex Spartalis](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
+
+- #### [Functional Analysis lecture notes by Michael Cowling](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/cowling.pdf) — [Original Source](https://web.maths.unsw.edu.au/~potapov/5605_2014/mcowling-fa-notes.pdf)
+
+- #### [Discrete Mathematics cheatsheet by Max Kasperowski](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
+
+- #### [Undergraduate Mathematics cheatsheet by Rutuj Gavankar](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
+
+- #### [Combinatorial Structures in Graph Theory lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/harju.pdf) — [Original Source](https://users.utu.fi/harju/Structures/Structure2018.pdf)
 
 
 <!-- MARKDOWN LINKS -->
