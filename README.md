@@ -5,6 +5,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
 </p>
