@@ -157,10 +157,16 @@
 
 - #### [Lecture notes by Daniel Chan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/chan.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/algtop15a/algtop_notes.pdf)
 
+- #### [Lecture notes by Tilman Bauer](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/bauer.pdf) — [Original Source](https://github.com/tilmanbauer/characteristic-classes)
+
 - #### [Cheatsheet by Edward O'Callaghan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/o'callaghan.pdf) — [Original Source](https://github.com/victoredwardocallaghan/openware/tree/master/Topology)
+
+- #### [Complex Manifolds](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/dadhley_cm.pdf) and [Toric Geometry](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/dadhley_tg.pdf) lecture notes by Richie Dadhley — [Original Source](https://richie291.wixsite.com/theoreticalphysics/projects-2)
 
 
 ### :slot_machine: [Random Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics):
+
+- #### [Cambridge lecture notes by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
 - #### [Collection of lecture notes on all kinds of topics](https://www.math.miami.edu/~dsolis/notes.html)
 
