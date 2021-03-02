@@ -19,7 +19,7 @@
 
 ## :scroll: Collection of the best math cheatsheet materials available on the web.
 
-> ### Contributions are very welcome!
+> ### :hugs: Contributions are very welcome!
 
 
 ## :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus):
