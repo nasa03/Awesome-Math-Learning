@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-[![Contributions](https://img.shields.io/badge/Contributions-welcome.svg?style=for-the-badge)](https://github.com/geotrush/Awesome-Math-Notes/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/geotrush/Awesome-Math-Notes/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -19,7 +19,7 @@
 
 ## :scroll: Collection of the best math cheatsheet materials available on the web.
 
-> ### :hugs: Contributions are very welcome!
+> ### Contributions are very welcome! :hugs:
 
 
 ## :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus):
