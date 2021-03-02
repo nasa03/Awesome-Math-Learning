@@ -28,7 +28,17 @@
 
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
 
-- #### [Multivariable Calculus](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) and [Differential Equations](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) lectures by Jeffrey Chasnov
+- #### Lectures by Trefor Bazett:
+    - #### [Single Variable Calculus. Part I](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+    - #### [Single Variable Calculus. Part II](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)
+    - #### [Multivariable Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
+    - #### [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
+    - #### [Ordinary Differential Equations](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw)
+    - #### [Laplace Transforms](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1)
+
+- #### Lectures by Jeffrey Chasnov:
+    - #### [Multivariable Calculus](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
+    - #### [Differential Equations](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)
 
 
 ### :man_juggling: [Combinatorics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Combinatorics):
@@ -123,7 +133,7 @@
 
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
 
-- #### [Machine Learning](https://cedar.buffalo.edu/~srihari/CSE574/index.html) and [Deep Learning](https://cedar.buffalo.edu/~srihari/CSE676/index.html) lectures by Sargur Srihari
+- #### [Machine Learning](https://cedar.buffalo.edu/~srihari/CSE574/index.html) and [Deep Learning](https://cedar.buffalo.edu/~srihari/CSE676/index.html) lecture notes by Sargur Srihari
 
 - #### [Cheatsheets by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
 
