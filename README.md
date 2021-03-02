@@ -6,6 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
+[![GNU GPL v3.0][license-shield]][license-url]
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
@@ -212,3 +213,5 @@
 [stars-url]: https://github.com/geotrush/Awesome-Math-Notes/stargazers
 [forks-shield]: https://img.shields.io/github/forks/geotrush/Awesome-Math-Notes.svg?style=for-the-badge
 [forks-url]: https://github.com/geotrush/Awesome-Math-Notes/network/members
+[license-shield]: https://img.shields.io/github/license/geotrush/Awesome-Math-Notes.svg?style=for-the-badge
+[license-url]: https://github.com/geotrush/Awesome-Math-Notes/blob/master/LICENSE.md
