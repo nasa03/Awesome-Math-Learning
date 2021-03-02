@@ -2,6 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
+[![Contributions](https://img.shields.io/badge/Contributions-welcome.svg?style=for-the-badge)](https://github.com/geotrush/Awesome-Math-Notes/pulls)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
