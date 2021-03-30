@@ -22,7 +22,7 @@
 > ### Contributions are very welcome! :hugs:
 
 
-## :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus):
+## :milky_way: [Calculus](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Calculus)
 
 - #### [Lecture notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
 
@@ -49,12 +49,12 @@
     - #### [Differential Equations](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)
 
 
-## :man_juggling: [Combinatorics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Combinatorics):
+## :man_juggling: [Combinatorics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Combinatorics)
 
 - #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Combinatorics/harju.pdf) — [Original Source](https://users.utu.fi/harju/combinenum/MainEn.pdf)
 
 
-## :diamond_shape_with_a_dot_inside: [Graph Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory):
+## :diamond_shape_with_a_dot_inside: [Graph Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory)
 
 - #### [Lectures by Sarada Herke](https://www.youtube.com/c/SaradaHerke/playlists?view=50&sort=dd&shelf_id=5)
 
@@ -67,7 +67,7 @@
 - #### [Lecture notes by Catherine Greenhill](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Graph-Theory/greenhill.pdf) — [Original Source](https://github.com/skityl/GraphTheory/blob/master/Notes/math5425-summarynotes.pdf)
 
 
-## :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory):
+## :ring: [Group Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory)
 
 - #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/semigroups/Semigroups.pdf)
 
@@ -88,7 +88,7 @@
 - #### [Cheatsheet by Edward O'Callaghan](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Group-Theory/o'callaghan.pdf) — [Original Source](https://github.com/victoredwardocallaghan/openware/tree/master/Introduction%20to%20Category%20Theory)
 
 
-## :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Linear-Algebra):
+## :mechanical_arm: [Linear Algebra](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Linear-Algebra)
 
 - #### [Lectures by Sal Khan](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
 
@@ -117,7 +117,7 @@
 - #### [Interactive visualizations by Jacob Ström, Kalle Åström and Tomas Akenine-Möller](http://immersivemath.com/ila/tableofcontents.html)
 
 
-## :game_die: [Probability Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Probability-Theory):
+## :game_die: [Probability Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Probability-Theory)
 
 - #### [Cheatsheet by Peleg Michaeli](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Probability-Theory/michaeli.pdf) — [Original Source](https://web.cs.elte.hu/~mesti/valszam/kepletek)
 
@@ -143,7 +143,7 @@
 - #### [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Statistical-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 
 
-## :robot: [Machine Learning](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning):
+## :robot: [Machine Learning](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning)
 
 - #### [Cheatsheet by Frank Dai](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/dai.pdf) — [Original Source](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
@@ -151,7 +151,11 @@
 
 - #### [Cheatsheet by Aqeel Anwar](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/anwar.pdf) — [Original Source](https://sites.google.com/view/datascience-cheat-sheets/machine-learning_1?authuser=0)
 
+- #### [Cheatsheet by Marilou Beyeler](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/beyeler_aml.pdf) — [Original Source](https://github.com/mariloubylr/eth-summaries)
+
 - #### [Cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/686xMachineLearning)
+
+- #### [Cheatsheet](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/koene_cheatsheet.pdf) and [notes](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/koene_notes.pdf) by Erik Koene — [Original Source](https://github.com/efmkoene/AML-2018-cheatsheet)
 
 - #### [Machine Learning](https://cedar.buffalo.edu/~srihari/CSE574/index.html) and [Deep Learning](https://cedar.buffalo.edu/~srihari/CSE676/index.html) lecture slides by Sargur Srihari
 
@@ -162,7 +166,7 @@
 - #### [Essential Machine Learning](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_eml.pdf) and [Advanced Machine Learning](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_aml.pdf) cheatsheets by Doruk Çetin — [Original Source](https://github.com/dcetin/eth-cs-notes/tree/master/cheatsheets)
 
 
-## :triangular_ruler: [Measure Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory):
+## :triangular_ruler: [Measure Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory)
 
 - #### [Lectures by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 
@@ -175,19 +179,19 @@
 - #### [Lecture notes by Steven Nguyen](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Measure-Theory/nguyen.pdf) — [Original Source](https://github.com/skityl/MeasureTheory/blob/master/Notes/math5825_lecture_notes.pdf)
 
 
-## :abacus: [Number Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Number-Theory):
+## :abacus: [Number Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Number-Theory)
 
 - #### [Lecture notes by Alina Ostafe](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Number-Theory/ostafe.pdf) — [Original Source](https://github.com/skityl/NumberTheory/tree/master/Notes)
 
 - #### [Lecture notes by Jackson Petty](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Number-Theory/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-354)
 
 
-## :basket: [Set Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Set-Theory):
+## :basket: [Set Theory](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Set-Theory)
 
 - #### [Lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Set-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/orderedsets/Mainorder.pdf)
 
 
-## :globe_with_meridians: [Topology](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology):
+## :globe_with_meridians: [Topology](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology)
 
 - #### [Lecture notes by Holworth](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/holworth.pdf) — [Original Source](https://github.com/Holworth/MathmaticsNotes/tree/master/Topology)
 
@@ -202,9 +206,12 @@
 - #### [Complex Manifolds](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/dadhley_cm.pdf) and [Toric Geometry](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Topology/dadhley_tg.pdf) lecture notes by Richie Dadhley — [Original Source](https://richie291.wixsite.com/theoreticalphysics/projects-2)
 
 
-## :slot_machine: [Random Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics):
+## :slot_machine: [Random Topics](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics)
 
 - #### [Cambridge lecture notes by Dexter Chua](http://dec41.user.srcf.net/notes/)
+
+
+- #### [Fourier Analysis lectures by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
 - #### [Collection of lecture notes on all kinds of topics](https://www.math.miami.edu/~dsolis/notes.html)
 
@@ -214,9 +221,9 @@
 
 - #### [Mathematics for Machine Learning lectures by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
-- #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
-
 - #### [Discrete Mathematics lecture notes by Jieyou Xu](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/xu.pdf) — [Original Source](https://github.com/jieyouxu/COMP0147-Discrete-Mathematics-Notes)
+
+- #### [Statistical Analysis cheatsheet by Janus Advincula](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/14310xDataAnalysis)
 
 - #### [All-In-One Mathematics cheatsheet by Alex Spartalis](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
 
@@ -227,6 +234,8 @@
 - #### [Undergraduate Mathematics cheatsheet by Rutuj Gavankar](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
 
 - #### [Undergraduate Mathematics notebook by Nathan Typanski](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/typanski.pdf) — [Original Source](https://github.com/nathantypanski/texnotes)
+
+- #### [Computational Intelligence Lab Cheatsheet by Marilou Beyeler](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Machine-Learning/beyeler_cil.pdf) — [Original Source](https://github.com/mariloubylr/eth-summaries)
 
 - #### [Combinatorial Structures in Graph Theory lecture notes by Tero Harju](https://github.com/geotrush/Awesome-Math-Notes/blob/master/Random-Topics/harju.pdf) — [Original Source](https://users.utu.fi/harju/Structures/Structure2018.pdf)
 
