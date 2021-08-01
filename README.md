@@ -168,7 +168,7 @@
 
 - ### :black_joker: [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/tensorush/Awesome-Math-Notes/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
 
-- ### :film_projector: [Videos on Mathematics for Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+- ### :tv: [Videos on Mathematics for Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
 - ### :writing_hand: Notes on [Statistical Learning Theory](https://github.com/tensorush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_slt.pdf) and [Natural Language Understanding](https://github.com/tensorush/Awesome-Math-Notes/blob/master/Machine-Learning/cetin_nlu.pdf) by Doruk Çetin — [Original Source](https://github.com/dcetin/eth-cs-notes/blob/master/notes)
 
@@ -216,9 +216,9 @@
 
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
-- ### :film_projector: [Videos on Fourier Analysis by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+- ### :tv: [Videos on Fourier Analysis by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
-- ### :film_projector: [Videos on Functional Analysis by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
+- ### :tv: [Videos on Functional Analysis by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 
 - ### :writing_hand: [Notes on Galois Theory by Jackson Petty](https://github.com/tensorush/Awesome-Math-Notes/blob/master/Random-Topics/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-370)
 
