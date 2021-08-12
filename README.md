@@ -177,13 +177,13 @@
 
 - ### :tv: [Videos by Jeffrey Chasnov](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)
 
+- ### :writing_hand: [Notes by Andrey Mazhuga](http://wiki.cs.hse.ru/LAaG_DSBA_2020/2021)
+
 - ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtXb7O-kPaEhAtFEb3n9Huu)
 
 - ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
 
 - ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
-
-- ### :writing_hand: [Notes by Andrey Mazhuga](http://wiki.cs.hse.ru/LAaG_DSBA_2020/2021)
 
 - ### :writing_hand: [Notes by Zico Kolter](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Linear-Algebra/kolter.pdf) — [Original Source](http://cs229.stanford.edu/notes2020fall/notes2020fall/linalg2.pdf)
 
@@ -295,9 +295,9 @@
 
 - ### :black_joker: [Cheatsheet by Janus Advincula](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Probability-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/6431xProbability)
 
-- ### :black_joker: [Cheatsheet by Max Kasperowski](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
-
 - ### :writing_hand: [Notes by Anna Brandenberger](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Probability-Theory/brandenberger.pdf) — [Original Source](https://github.com/abrandenberger/course-notes/blob/master/MATH-323-notes.pdf)
+
+- ### :black_joker: [Cheatsheet by Max Kasperowski](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
 
 - ### :black_joker: [Cheatsheet by William Chen and Joe Blitzstein](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
 
@@ -305,11 +305,11 @@
 
 ## :basket: [Set Theory](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Set-Theory)
 
+- ### :writing_hand: [Notes by Sylvain Poirier](http://www.settheory.net/)
+
 - ### :writing_hand: [Notes by Tero Harju](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Set-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/orderedsets/Mainorder.pdf)
 
 - ### :writing_hand: [Notes by William Weiss](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Set-Theory/weiss.pdf) — [Original Source](http://www.math.toronto.edu/weiss/set_theory.pdf)
-
-- ### :writing_hand: [Notes by Sylvain Poirier](http://www.settheory.net/)
 
 ## :bar_chart: [Statistical Theory](https://github.com/tensorush/Awesome-Math-Materials/blob/master/Statistical-Theory)
 
