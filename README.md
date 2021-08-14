@@ -61,6 +61,14 @@
 
 - ### :black_joker: [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
 
+## :cat2: [Category Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory)
+
+- ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
+
+- ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
+
+- ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
+
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations)
 
 - ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists?view=50&sort=dd&shelf_id=4)
@@ -76,14 +84,6 @@
 - ### :writing_hand: [Notes by Eugen Ionascu](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations/ionascu.pdf) — [Original Source](https://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf)
 
 - ### :writing_hand: [Notes by Alexander Grigorian](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations/grigorian.pdf) — [Original Source](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf)
-
-## :cat2: [Category Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory)
-
-- ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
-
-- ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
-
-- ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
 
 ## :flying_disc: [Differential Geometry](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Geometry)
 
@@ -109,6 +109,24 @@
 
 - ### :writing_hand: [Notes by Anna Brandenberger and Binyuan Sun](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Discrete-Mathematics/brandenberger_sun.pdf) — [Original Source](https://github.com/abrandenberger/course-notes/blob/master/MATH-240-notes.pdf)
 
+## :world_map: [Functional Analysis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis)
+
+- ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
+
+- ### :writing_hand: [Notes by Michael Cowling](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis/cowling.pdf) — [Original Source](https://web.maths.unsw.edu.au/~potapov/5605_2014/mcowling-fa-notes.pdf)
+
+- ### :writing_hand: [Notes by Alexander Belton](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis/belton.pdf) — [Original Source](https://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf)
+
+## :ice_cube: [Geometric Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra)
+
+- ### :tv: [Videos by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K)
+
+- ### :tv: [Videos by Alan Macdonald](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt)
+
+- ### :writing_hand: [Notes by Laszlo Tisza](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/tisza.pdf) — [Original Source](https://ocw.mit.edu/resources/res-8-001-applied-geometric-algebra-spring-2009/lecture-notes-contents/)
+
+- ### :writing_hand: [Notes by Christopher Doran](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/doran.pdf) — [Original Source](http://geometry.mrao.cam.ac.uk/2016/10/geometric-algebra-2016/)
+
 ## :diamond_shape_with_a_dot_inside: [Graph Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Graph-Theory)
 
 - ### :tv: [Videos by Sarada Herke](https://www.youtube.com/c/SaradaHerke/playlists?view=50&sort=dd&shelf_id=5)
@@ -122,22 +140,6 @@
 - ### :writing_hand: [Notes on Graph Theory by Tero Harju](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Graph-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/graphtheory/graphtheory.pdf)
 
 - ### :writing_hand: [Notes Combinatorial Structures in Graph Theory by Tero Harju](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Discrete-Mathematics/harju_2.pdf) — [Original Source](https://users.utu.fi/harju/Structures/Structure2018.pdf)
-
-## :ear: [Harmonic Analysis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis)
-
-- ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
-
-- ### :writing_hand: [Notes by Lucas Illing](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/illing.pdf) — [Original Source](https://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf)
-
-- ### :writing_hand: [Notes by Richard Laugesen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/laugesen.pdf) — [Original Source](https://faculty.math.illinois.edu/~laugesen/545/545Lectures.pdf)
-
-## :world_map: [Functional Analysis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis)
-
-- ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
-
-- ### :writing_hand: [Notes by Michael Cowling](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis/cowling.pdf) — [Original Source](https://web.maths.unsw.edu.au/~potapov/5605_2014/mcowling-fa-notes.pdf)
-
-- ### :writing_hand: [Notes by Alexander Belton](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis/belton.pdf) — [Original Source](https://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf)
 
 ## :family_man_woman_girl_boy: [Group Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Group-Theory)
 
@@ -160,6 +162,14 @@
 - ### :black_joker: [Cheatsheet by Per Alexandersson](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Group-Theory/alexandersson.pdf) — [Original Source](https://www2.math.upenn.edu/~peal/files/Group.Theory[2018][Eng]-ALEXANDERSSON.pdf)
 
 - ### :black_joker: [Cheatsheet by Edward O'Callaghan](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Group-Theory/o'callaghan.pdf) — [Original Source](https://github.com/victoredwardocallaghan/openware/tree/master/Introduction%20to%20Category%20Theory)
+
+## :ear: [Harmonic Analysis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis)
+
+- ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+
+- ### :writing_hand: [Notes by Lucas Illing](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/illing.pdf) — [Original Source](https://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf)
+
+- ### :writing_hand: [Notes by Richard Laugesen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/laugesen.pdf) — [Original Source](https://faculty.math.illinois.edu/~laugesen/545/545Lectures.pdf)
 
 ## :mechanical_arm: [Linear Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra)
 
@@ -216,6 +226,8 @@
 - ### :tv: [Videos by Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
 - ### :tv: [Videos by Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)
+
+- ### :tv: [Videos by Alexander Ihler](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 
 - ### :tv: [Videos by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
