@@ -127,6 +127,8 @@
 
 - ### :tv: [Videos by Alan Macdonald](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt)
 
+- ### :tv: [Videos by Arrow of Entropy](https://www.youtube.com/playlist?list=PLrizc6KfD8q8KDw31lUARRIeugbIW3MHL)
+
 - ### :tv: [Videos by Steven De Keninck](https://www.youtube.com/playlist?list=PLsSPBzvBkYjzcQ4eCVAntETNNVD2d5S79)
 
 - ### :writing_hand: [Notes by Leo Dorst](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/dorst.pdf) — [Original Source](https://bivector.net/doc.html)
