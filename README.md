@@ -129,8 +129,6 @@
 
 - ### :tv: [Videos by Steven De Keninck](https://www.youtube.com/playlist?list=PLsSPBzvBkYjzcQ4eCVAntETNNVD2d5S79)
 
-- ### :tv: [Video by Charles Gunn and Steven De Keninck](https://www.youtube.com/watch?v=tX4H_ctggYo)
-
 - ### :writing_hand: [Notes by Leo Dorst](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/dorst.pdf) — [Original Source](https://bivector.net/doc.html)
 
 - ### :writing_hand: [Notes by Jaap Suter](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/suter.pdf) — [Original Source](https://bivector.net/doc.html)
@@ -138,6 +136,8 @@
 - ### :writing_hand: [Notes by Laszlo Tisza](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/tisza.pdf) — [Original Source](https://ocw.mit.edu/resources/res-8-001-applied-geometric-algebra-spring-2009/lecture-notes-contents/)
 
 - ### :writing_hand: [Notes by Charles Gunn](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/gunn.pdf) — [Original Source](https://bivector.net/doc.html)
+
+- ### :tv: [Video by Charles Gunn and Steven De Keninck](https://www.youtube.com/watch?v=tX4H_ctggYo)
 
 - ### :writing_hand: [Notes by Christopher Doran](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/doran.pdf) — [Original Source](http://geometry.mrao.cam.ac.uk/2016/10/geometric-algebra-2016/)
 
