@@ -189,11 +189,11 @@
 
 - ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
+- ### :joystick: [Interactive visualization by Jez Swanson](https://www.jezzamon.com/fourier/index.html)
+
 - ### :writing_hand: [Notes by Lucas Illing](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/illing.pdf) — [Original Source](https://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf)
 
 - ### :writing_hand: [Notes by Richard Laugesen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/laugesen.pdf) — [Original Source](https://faculty.math.illinois.edu/~laugesen/545/545Lectures.pdf)
-
-- ### :joystick: [Interactive visualization by Jez Swanson](https://www.jezzamon.com/fourier/index.html)
 
 ## :mechanical_arm: [Linear Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra)
 
