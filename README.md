@@ -193,6 +193,8 @@
 
 - ### :writing_hand: [Notes by Richard Laugesen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/laugesen.pdf) — [Original Source](https://faculty.math.illinois.edu/~laugesen/545/545Lectures.pdf)
 
+- ### :joystick: [Interactive visualization by Jez Swanson](https://www.jezzamon.com/fourier/index.html)
+
 ## :mechanical_arm: [Linear Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra)
 
 - ### :tv: [Videos by Sal Khan](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
@@ -398,6 +400,8 @@
 - ### :books: [Collection of Math Notes](https://www.math.miami.edu/~dsolis/notes.html)
 
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
+
+- ### :tv: [Videos on Tensor Calculus by Robert Davie](https://www.youtube.com/playlist?list=PLeFwDGOexoe-FLX3kEMSkoWG6Cuck_8Xb)
 
 - ### :tv: [Videos on Mathematics for Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
