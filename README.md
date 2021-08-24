@@ -91,6 +91,8 @@
 
 - ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)
 
+- ### :writing_hand: [Notes by Keenan Crane](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Geometry/crane.pdf) — [Original Source](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
+
 - ### :writing_hand: [Notes by Wulf Rossmann](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Geometry/rossmann.pdf) — [Original Source](https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf)
 
 - ### :writing_hand: [Notes by Sigmundur Gudmundsson](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Geometry/gudmundsson.pdf) — [Original Source](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf)
@@ -122,6 +124,8 @@
 - ### :tv: [Videos by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K)
 
 - ### :tv: [Video by sudgylacmoe](https://www.youtube.com/watch?v=60z_hpEAtD8)
+
+- ### :film_projector: [Slides by Eric Lengyel](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
 
 - ### :tv: [Video by Marc ten Bosch](https://www.youtube.com/watch?v=Idlv83CxP-8)
 
