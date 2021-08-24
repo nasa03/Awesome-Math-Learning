@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome Math lectures in the form of notes, videos and cheatsheets.
+## :man_teacher: Collection of the most awesome lectures on Mathematics in the form of notes, videos and cheatsheets.
 
 > ### Contributions are very welcome! :hugs:
 
