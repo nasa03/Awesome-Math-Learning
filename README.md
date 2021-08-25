@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome lectures on Mathematics in the form of notes, videos and cheatsheets.
+## :man_teacher: Collection of the most awesome Math learning resources in the form of notes, videos and cheatsheets.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -123,9 +123,9 @@
 
 - ### :tv: [Videos by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K)
 
-- ### :tv: [Video by sudgylacmoe](https://www.youtube.com/watch?v=60z_hpEAtD8)
-
 - ### :film_projector: [Slides by Eric Lengyel](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
+
+- ### :tv: [Video by sudgylacmoe](https://www.youtube.com/watch?v=60z_hpEAtD8)
 
 - ### :tv: [Video by Marc ten Bosch](https://www.youtube.com/watch?v=Idlv83CxP-8)
 
@@ -407,9 +407,9 @@
 
 - ### :black_joker: [Cheatsheet All-In-One Mathematics by Alex Spartalis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
 
-- ### :writing_hand: [Notes on Undergraduate Mathematics by Nathan Typanski](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/typanski.pdf) — [Original Source](https://github.com/nathantypanski/texnotes)
-
 - ### :black_joker: [Cheatsheet on Undergraduate Mathematics by Rutuj Gavankar](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
+
+- ### :writing_hand: [Notes on Undergraduate Mathematics by Nathan Typanski](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/typanski.pdf) — [Original Source](https://github.com/nathantypanski/texnotes)
 
 <!-- MARKDOWN LINKS -->
 
