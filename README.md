@@ -229,6 +229,8 @@
 
 - ### :writing_hand: [Notes by Kaare Petersen and Michael Pedersen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra/petersen_pedersen.pdf) — [Original Source](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
+- ### :black_joker: [Cheatsheet by Kenji Hiranabe and Gilbert Strang](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra/hiranabe_strang.pdf) — [Original Source](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+
 - ### :film_projector: [Slides by Stephen Boyd and Lieven Vandenberghe](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra/boyd_and_vandenberghe.pdf) — [Original Source](http://vmls-book.stanford.edu/)
 
 - ### :writing_hand: [Notes by Anna Brandenberger and Daniela Breitman](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra/brandenberger_breitman.pdf) — [Original Source](https://github.com/abrandenberger/course-notes/blob/master/MATH-247-notes.pdf)
