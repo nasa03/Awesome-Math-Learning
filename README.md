@@ -277,11 +277,11 @@
 
 - ### :black_joker: [Cheatsheet by ETH Zürich students](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/zurich.pdf) — [Original Source](https://github.com/eth-cs-student-summaries/Introduction-to-Machine-Learning)
 
-- ### :black_joker: [Cheatsheet on Deep Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_dl.pdf) and [Notes on Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_ml.pdf) by Phillip Lippe
-
 - ### :film_projector: Slides on [Machine Learning](https://cedar.buffalo.edu/~srihari/CSE574/index.html) and [Deep Learning](https://cedar.buffalo.edu/~srihari/CSE676/index.html) by Sargur Srihari
 
 - ### :black_joker: [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
+
+- ### :black_joker: [Cheatsheet on Deep Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_dl.pdf) and [Notes on Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_ml.pdf) by Phillip Lippe
 
 - ### :black_joker: Cheatsheets on [Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/beyeler_aml.pdf) and [Computational Intelligence](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/beyeler_cil.pdf) by Marilou Beyeler — [Original Source](https://github.com/mariloubylr/eth-summaries)
 
