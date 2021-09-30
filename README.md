@@ -281,7 +281,7 @@
 
 - ### :black_joker: [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/amidi_twins.pdf) — [Original Source](https://github.com/afshinea)
 
-- ### :black_joker: [Cheatsheet on Deep Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_dl.pdf) and [Notes on Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_ml.pdf) by Phillip Lippe
+- ### :black_joker: [Cheatsheet on Deep Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_dl.pdf) and [Notes on Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/lippe_ml.pdf) by Phillip Lippe — [Original Source](https://github.com/phlippe/UvA_Summaries/tree/master/Final_versions)
 
 - ### :black_joker: Cheatsheets on [Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/beyeler_aml.pdf) and [Computational Intelligence](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/beyeler_cil.pdf) by Marilou Beyeler — [Original Source](https://github.com/mariloubylr/eth-summaries)
 
