@@ -21,6 +21,31 @@
 
 > ### Contributions are very welcome! :hugs:
 
+## Table of Contents
+
+  - [:ring: Abstract Algebra](#ring-abstract-algebra)
+  - [:comet: Calculus](#comet-calculus)
+  - [:cat2: Category Theory](#cat2-category-theory)
+  - [:milky_way: Differential Equations](#milky_way-differential-equations)
+  - [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
+  - [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
+  - [:world_map: Functional Analysis](#world_map-functional-analysis)
+  - [:ice_cube: Geometric Algebra](#ice_cube-geometric-algebra)
+  - [:diamond_shape_with_a_dot_inside: Graph Theory](#diamond_shape_with_a_dot_inside-graph-theory)
+  - [:family_man_woman_girl_boy: Group Theory](#family_man_woman_girl_boy-group-theory)
+  - [:ear: Harmonic Analysis](#ear-harmonic-analysis)
+  - [:mechanical_arm: Linear Algebra](#mechanical_arm-linear-algebra)
+  - [:robot: Machine Learning](#robot-machine-learning)
+  - [:thought_balloon: Mathematical Logic](#thought_balloon-mathematical-logic)
+  - [:triangular_ruler: Measure Theory](#triangular_ruler-measure-theory)
+  - [:abacus: Number Theory](#abacus-number-theory)
+  - [:game_die: Probability Theory](#game_die-probability-theory)
+  - [:basket: Set Theory](#basket-set-theory)
+  - [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
+  - [:people_holding_hands: Surreal Numbers](#people_holding_hands-surreal-numbers)
+  - [:globe_with_meridians: Topology](#globe_with_meridians-topology)
+  - [:slot_machine: Random Topics](#slot_machine-random-topics)
+
 ## :ring: [Abstract Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra)
 
 - ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
