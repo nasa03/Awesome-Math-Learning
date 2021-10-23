@@ -23,28 +23,28 @@
 
 ## Table of Contents
 
-  - [:ring: Abstract Algebra](#ring-abstract-algebra)
-  - [:comet: Calculus](#comet-calculus)
-  - [:cat2: Category Theory](#cat2-category-theory)
-  - [:milky_way: Differential Equations](#milky_way-differential-equations)
-  - [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
-  - [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
-  - [:world_map: Functional Analysis](#world_map-functional-analysis)
-  - [:ice_cube: Geometric Algebra](#ice_cube-geometric-algebra)
-  - [:diamond_shape_with_a_dot_inside: Graph Theory](#diamond_shape_with_a_dot_inside-graph-theory)
-  - [:family_man_woman_girl_boy: Group Theory](#family_man_woman_girl_boy-group-theory)
-  - [:ear: Harmonic Analysis](#ear-harmonic-analysis)
-  - [:mechanical_arm: Linear Algebra](#mechanical_arm-linear-algebra)
-  - [:robot: Machine Learning](#robot-machine-learning)
-  - [:thought_balloon: Mathematical Logic](#thought_balloon-mathematical-logic)
-  - [:triangular_ruler: Measure Theory](#triangular_ruler-measure-theory)
-  - [:abacus: Number Theory](#abacus-number-theory)
-  - [:game_die: Probability Theory](#game_die-probability-theory)
-  - [:basket: Set Theory](#basket-set-theory)
-  - [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
-  - [:people_holding_hands: Surreal Numbers](#people_holding_hands-surreal-numbers)
-  - [:globe_with_meridians: Topology](#globe_with_meridians-topology)
-  - [:slot_machine: Random Topics](#slot_machine-random-topics)
+- [:ring: Abstract Algebra](#ring-abstract-algebra)
+- [:comet: Calculus](#comet-calculus)
+- [:cat2: Category Theory](#cat2-category-theory)
+- [:milky_way: Differential Equations](#milky_way-differential-equations)
+- [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
+- [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
+- [:world_map: Functional Analysis](#world_map-functional-analysis)
+- [:ice_cube: Geometric Algebra](#ice_cube-geometric-algebra)
+- [:diamond_shape_with_a_dot_inside: Graph Theory](#diamond_shape_with_a_dot_inside-graph-theory)
+- [:family_man_woman_girl_boy: Group Theory](#family_man_woman_girl_boy-group-theory)
+- [:ear: Harmonic Analysis](#ear-harmonic-analysis)
+- [:mechanical_arm: Linear Algebra](#mechanical_arm-linear-algebra)
+- [:robot: Machine Learning](#robot-machine-learning)
+- [:thought_balloon: Mathematical Logic](#thought_balloon-mathematical-logic)
+- [:triangular_ruler: Measure Theory](#triangular_ruler-measure-theory)
+- [:abacus: Number Theory](#abacus-number-theory)
+- [:game_die: Probability Theory](#game_die-probability-theory)
+- [:basket: Set Theory](#basket-set-theory)
+- [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
+- [:people_holding_hands: Surreal Numbers](#people_holding_hands-surreal-numbers)
+- [:globe_with_meridians: Topology](#globe_with_meridians-topology)
+- [:slot_machine: Random Topics](#slot_machine-random-topics)
 
 ## :ring: [Abstract Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra)
 
@@ -148,6 +148,8 @@
 
 - ### :tv: [Videos by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K)
 
+- ### :tv: [Videos by Bivector](https://www.youtube.com/user/EnkiOrigami/playlists)
+
 - ### :film_projector: [Slides by Eric Lengyel](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
 
 - ### :tv: [Video by sudgylacmoe](https://www.youtube.com/watch?v=60z_hpEAtD8)
@@ -157,8 +159,6 @@
 - ### :tv: [Videos by Alan Macdonald](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt)
 
 - ### :tv: [Videos by Arrow of Entropy](https://www.youtube.com/playlist?list=PLrizc6KfD8q8KDw31lUARRIeugbIW3MHL)
-
-- ### :tv: [Videos by Steven De Keninck](https://www.youtube.com/playlist?list=PLsSPBzvBkYjzcQ4eCVAntETNNVD2d5S79)
 
 - ### :writing_hand: [Notes by Leo Dorst](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/dorst.pdf) — [Original Source](https://bivector.net/doc.html)
 
