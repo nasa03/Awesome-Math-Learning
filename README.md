@@ -146,9 +146,9 @@
 
 ## :ice_cube: [Geometric Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra)
 
-- ### :tv: [Videos by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K)
-
 - ### :tv: [Videos by Bivector](https://www.youtube.com/user/EnkiOrigami/playlists)
+
+- ### :tv: [Videos by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K)
 
 - ### :film_projector: [Slides by Eric Lengyel](https://www.gdcvault.com/play/1015322/Fundamentals-of-Grassmann)
 
