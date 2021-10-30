@@ -42,7 +42,7 @@
 - [:game_die: Probability Theory](#game_die-probability-theory)
 - [:basket: Set Theory](#basket-set-theory)
 - [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
-- [:people_holding_hands: Surreal Numbers](#people_holding_hands-surreal-numbers)
+- [:wrestling: Surreal Numbers](#wrestling-surreal-numbers)
 - [:globe_with_meridians: Topology](#globe_with_meridians-topology)
 - [:slot_machine: Random Topics](#slot_machine-random-topics)
 
@@ -394,13 +394,15 @@
 
 - ### :black_joker: [Cheatsheet on Fundamentals of Statistics by Janus Advincula](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Statistical-Theory/advincula.pdf) — [Original Source](https://github.com/mynameisjanus/186501xStatistics)
 
-## :people_holding_hands: [Surreal Numbers](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Surreal-Numbers)
+## :wrestling: [Surreal Numbers](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Surreal-Numbers)
 
 - ### :book: [Book by Donald Knuth](https://www.amazon.co.uk/Surreal-Numbers-Donald-Knuth/dp/0201038129)
 
 - ### :writing_hand: [Notes by Gretchen Grimm](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Surreal-Numbers/grimm.pdf) — [Original Source](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf)
 
 - ### :writing_hand: [Notes by Melissa Gymrek and Jing Li](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Surreal-Numbers/gymrek_li.pdf) — [Original Source](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
+
+- ### :tv: [HACKENBUSH: a window to a new world of math by Owen Maitzen](https://www.youtube.com/watch?v=ZYj4NkeGPdM)
 
 ## :globe_with_meridians: [Topology](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology)
 
