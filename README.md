@@ -266,6 +266,8 @@
 
 ## :robot: [Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning)
 
+- ### :tv: [Videos by AI Institute](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d)
+
 - ### :tv: [Videos by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 - ### :tv: [Videos by Anand Avati](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
