@@ -138,6 +138,8 @@
 
 ## :world_map: [Functional Analysis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis)
 
+- ### :tv: [Videos by Claudio Landim](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
+
 - ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 
 - ### :writing_hand: [Notes by Michael Cowling](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Functional-Analysis/cowling.pdf) — [Original Source](https://web.maths.unsw.edu.au/~potapov/5605_2014/mcowling-fa-notes.pdf)
@@ -328,6 +330,8 @@
 
 ## :triangular_ruler: [Measure Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Measure-Theory)
 
+- ### :tv: [Videos by Claudio Landim](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
+
 - ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 
 - ### :writing_hand: [Notes by Peter Straka](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Measure-Theory/straka.pdf) — [Original Source](https://github.com/skityl/MeasureTheory/blob/master/Notes/A4pages.pdf)
@@ -349,6 +353,8 @@
 - ### :writing_hand: [Notes by Pavel Kolesnikov and Evgeny Vdovin](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Number-Theory/kolesnikov_vdovin.pdf) — [Original Source](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf)
 
 ## :game_die: [Probability Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory)
+
+- ### :tv: [Videos by Claudio Landim](https://www.youtube.com/playlist?list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7)
 
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
 
@@ -435,6 +441,8 @@
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
 - ### :tv: [Videos on Tensor Calculus by Robert Davie](https://www.youtube.com/playlist?list=PLeFwDGOexoe-FLX3kEMSkoWG6Cuck_8Xb)
+
+- ### :tv: [Videos on Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
 
 - ### :tv: [Videos on Mathematics for Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
