@@ -216,6 +216,8 @@
 
 - ### :tv: [Videos by Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
+- ### :tv: [Videos by Michael Adams](https://www.youtube.com/playlist?list=PLbHYdvrWBMxYGMvQ3QG6paNu7CuIRL5dX)
+
 - ### :joystick: [Interactive visualization by Jez Swanson](https://www.jezzamon.com/fourier/index.html)
 
 - ### :writing_hand: [Notes by Lucas Illing](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/illing.pdf) — [Original Source](https://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf)
@@ -443,6 +445,8 @@
 - ### :tv: [Videos on Tensor Calculus by Robert Davie](https://www.youtube.com/playlist?list=PLeFwDGOexoe-FLX3kEMSkoWG6Cuck_8Xb)
 
 - ### :tv: [Videos on Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
+
+- ### :tv: [Slides on Homotopy Type Theory by Emily Riehl](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/riehl.pdf) — [Original Source](https://github.com/emilyriehl/721)
 
 - ### :tv: [Videos on Mathematics for Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
