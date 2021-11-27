@@ -270,9 +270,13 @@
 
 ## :robot: [Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning)
 
+- ### :tv: [Videos by David Dye](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+
 - ### :tv: [Videos by AI Institute](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d)
 
 - ### :tv: [Videos by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+- ### :tv: [Videos by Sam Cooper](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 
 - ### :tv: [Videos by Anand Avati](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 
@@ -293,6 +297,8 @@
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 
 - ### :tv: [Videos by Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
+- ### :film_projector: [Slides by Joan Bruna and others](https://github.com/joanbruna/MathsDL-spring19)
 
 - ### :writing_hand: [Notes by Tao Sun](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/sun.pdf) — [Original Source](https://github.com/suniique/ETHz-AML-2020-Notes)
 
