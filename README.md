@@ -424,6 +424,12 @@
 
 - ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8)
 
+- ### :tv: [Videos Part I by Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/index.html)
+
+- ### :tv: [Videos Part II by Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil/topology-2021/index.html)
+
+- ### :tv: [Videos Part III by Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil/algebraic-topology-2022/index.html)
+
 - ### :writing_hand: [Notes by Holworth](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology/holworth.pdf) — [Original Source](https://github.com/Holworth/MathmaticsNotes/tree/master/Topology)
 
 - ### :writing_hand: [Notes by Daniel Chan](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology/chan.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/algtop15a/algtop_notes.pdf)
