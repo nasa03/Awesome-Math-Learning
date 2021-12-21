@@ -88,6 +88,8 @@
 
 ## :cat2: [Category Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory)
 
+- ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
+
 - ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
 
 - ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
@@ -161,6 +163,8 @@
 - ### :tv: [Videos by Alan Macdonald](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt)
 
 - ### :tv: [Videos by Arrow of Entropy](https://www.youtube.com/playlist?list=PLrizc6KfD8q8KDw31lUARRIeugbIW3MHL)
+
+- ### :black_joker: [Cheatsheet by Robin Kahlow](https://geometricalgebratutorial.com/)
 
 - ### :writing_hand: [Notes by Leo Dorst](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Geometric-Algebra/dorst.pdf) — [Original Source](https://bivector.net/doc.html)
 
