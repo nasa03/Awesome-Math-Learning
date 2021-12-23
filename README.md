@@ -90,6 +90,8 @@
 
 - ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 
+- ### :book: [Book by Ivan Murashko and others](https://github.com/CatTheoryByExample/book)
+
 - ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
 
 - ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
