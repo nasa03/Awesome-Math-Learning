@@ -162,6 +162,8 @@
 
 - ### :tv: [Video by Marc ten Bosch](https://www.youtube.com/watch?v=Idlv83CxP-8)
 
+- ### :tv: [Videos by Nick Okamoto](https://www.youtube.com/playlist?list=PLQ6JJNfj9jD_H3kUopCXkvvGoZqzYOzsV)
+
 - ### :tv: [Videos by Alan Macdonald](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt)
 
 - ### :tv: [Videos by Arrow of Entropy](https://www.youtube.com/playlist?list=PLrizc6KfD8q8KDw31lUARRIeugbIW3MHL)
