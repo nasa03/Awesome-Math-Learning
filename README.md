@@ -92,7 +92,13 @@
 
 - ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 
+- ### :tv: [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
+
 - ### :book: [Book by Ivan Murashko and others](https://github.com/CatTheoryByExample/book)
+
+- ### :tv: [Videos by Brendan Fong and others](http://brendanfong.com/programmingcats.html)
+
+- ### :tv: [Videos by David Spivak and Brendan Fong](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 
 - ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
 
