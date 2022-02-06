@@ -254,6 +254,8 @@
 
 - ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtXb7O-kPaEhAtFEb3n9Huu)
 
+- ### :tv: [Videos by Nikolay Bogachev](https://nvbogachev.netlify.app/teaching/linalg/)
+
 - ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq)
 
 - ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
