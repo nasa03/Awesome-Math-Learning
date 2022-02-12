@@ -34,6 +34,7 @@
 - [:diamond_shape_with_a_dot_inside: Graph Theory](#diamond_shape_with_a_dot_inside-graph-theory)
 - [:family_man_woman_girl_boy: Group Theory](#family_man_woman_girl_boy-group-theory)
 - [:ear: Harmonic Analysis](#ear-harmonic-analysis)
+- [:information_source: Information Theory](#information_source-information-theory)
 - [:mechanical_arm: Linear Algebra](#mechanical_arm-linear-algebra)
 - [:robot: Machine Learning](#robot-machine-learning)
 - [:thought_balloon: Mathematical Logic](#thought_balloon-mathematical-logic)
@@ -240,6 +241,28 @@
 
 - ### :writing_hand: [Notes by Richard Laugesen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Harmonic-Analysis/laugesen.pdf) — [Original Source](https://faculty.math.illinois.edu/~laugesen/545/545Lectures.pdf)
 
+## :information_source: [Information Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory)
+
+- ### :tv: [Videos by Brit Cruise](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x)
+
+- ### :tv: [Videos by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
+
+- ### :tv: [Videos by Jakob Foerster](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+
+- ### :tv: [Videos by Raymond Yeung](https://www.youtube.com/playlist?list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
+
+- ### :tv: [Videos by Simons Institute](https://www.youtube.com/playlist?list=PLZDU8a6Acnuj8-RT7eRxonbcshCFORKYW)
+
+- ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PLE125425EC837021F)
+
+- ### :thought_balloon: [Blogpost by Lê Nguyên Hoang](http://www.science4all.org/article/shannons-information-theory/)
+
+- ### :black_joker: [Cheatsheet by Hugo Touchette](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/touchette.pdf)
+
+- ### :writing_hand: [Notes by John Daugman](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/daugman.pdf) — [Original Source](https://www.cl.cam.ac.uk/teaching/0809/InfoTheory/InfoTheoryLectures.pdf)
+
+- ### :black_joker: [Cheatsheet by Lucile Baumann-Madoulaud](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/baumann-madoulaud.pdf) — [Original Source](https://github.com/LucileM/cheatsheet-ITC-EPFL)
+
 ## :mechanical_arm: [Linear Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra)
 
 - ### :tv: [Videos by Sal Khan](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
@@ -381,6 +404,8 @@
 ## :game_die: [Probability Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory)
 
 - ### :tv: [Videos by Claudio Landim](https://www.youtube.com/playlist?list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7)
+
+- ### :tv: [Videos by Lê Nguyên Hoang](https://www.youtube.com/playlist?list=PLie7a1OUTSah_tx-Ly2lj_p_omzjcS_o8)
 
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
 
