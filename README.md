@@ -103,6 +103,8 @@
 
 - ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
 
+- ### :book: [Book by Jonathan Sterling and Carlo Angiuli](http://www.jonmsterling.com/math/lectures/categorical-foundations.html)
+
 - ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
 
 - ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
