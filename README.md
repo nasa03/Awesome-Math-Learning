@@ -53,6 +53,8 @@
 
 - ### :tv: [Videos by Svetlana Makarova](https://www.youtube.com/playlist?list=PLgKjq_nhy2RadlA1XE6JxGkwUuSR-cx1m)
 
+- ### :tv: [Videos by Krishna Hanumanthu](https://nptel.ac.in/courses/111106131)
+
 - ### :writing_hand: [Notes by Miles Reid](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/reid.pdf) — [Original Source](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf)
 
 - ### :writing_hand: [Notes on by Dana Ernst](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/ernst.pdf) — [Original Source](https://github.com/dcernst/IBL-AbstractAlgebra)
@@ -212,6 +214,8 @@
 ## :family_man_woman_girl_boy: [Group Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Group-Theory)
 
 - ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+
+- ### :tv: [Videos by Krishna Hanumanthu](https://nptel.ac.in/courses/111106113)
 
 - ### :writing_hand: [Notes by Tero Harju](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Group-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/semigroups/Semigroups.pdf)
 
@@ -466,6 +470,10 @@
 - ### :tv: [HACKENBUSH: a window to a new world of math by Owen Maitzen](https://www.youtube.com/watch?v=ZYj4NkeGPdM)
 
 ## :globe_with_meridians: [Topology](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology)
+
+- ### :tv: [Videos by Sidney Morris](https://www.topologywithouttears.net/)
+
+- ### :book: [Book by Michael Hitchman](https://mphitchman.com/download.html)
 
 - ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8)
 
