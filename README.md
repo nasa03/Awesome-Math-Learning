@@ -13,7 +13,7 @@
     <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
@@ -54,6 +54,8 @@
 - ### :tv: [Videos by Svetlana Makarova](https://www.youtube.com/playlist?list=PLgKjq_nhy2RadlA1XE6JxGkwUuSR-cx1m)
 
 - ### :tv: [Videos by Krishna Hanumanthu](https://nptel.ac.in/courses/111106131)
+
+- ### :writing_hand: [Notes by Evan Chen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/chen.pdf) — [Original Source](https://web.evanchen.cc/napkin.html)
 
 - ### :writing_hand: [Notes by Miles Reid](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/reid.pdf) — [Original Source](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf)
 
@@ -261,7 +263,7 @@
 
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PLE125425EC837021F)
 
-- ### :thought_balloon: [Blogpost by Lê Nguyên Hoang](http://www.science4all.org/article/shannons-information-theory/)
+- ### :thought_balloon: [Blog post by Lê Nguyên Hoang](http://www.science4all.org/article/shannons-information-theory/)
 
 - ### :black_joker: [Cheatsheet by Hugo Touchette](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/touchette.pdf)
 
