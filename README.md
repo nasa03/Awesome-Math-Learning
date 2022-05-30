@@ -26,6 +26,7 @@
 - [:ring: Abstract Algebra](#ring-abstract-algebra)
 - [:comet: Calculus](#comet-calculus)
 - [:cat2: Category Theory](#cat2-category-theory)
+- [:butterfly: Chaos Theory](#butterfly-chaos-theory)
 - [:milky_way: Differential Equations](#milky_way-differential-equations)
 - [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
 - [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
@@ -112,6 +113,10 @@
 - ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
 
 - ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
+
+## :butterfly: [Chaos-Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory)
+
+- ### :tv: [Videos by Steven Strogatz](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
 
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations)
 
