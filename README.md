@@ -114,9 +114,17 @@
 
 - ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
 
-## :butterfly: [Chaos-Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory)
+## :butterfly: [Chaos Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory)
+
+- ### :tv: [Videos by Shane Ross](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
+
+- ### :tv: [Videos by Philippe Trinh](https://www.youtube.com/playlist?list=PLILvrDLrWErzBjluwtqSp6jdbrvjFROkq)
+
+- ### :tv: [Videos by David Feldman](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)
 
 - ### :tv: [Videos by Steven Strogatz](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+
+- ### :writing_hand: [Notes by Geoffrey Goodson](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory/goodson.pdf) — [Original Source](http://www.issp.ac.ru/ebooks/books/open/Chaos_Fractal_Geometry.pdf)
 
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations)
 
