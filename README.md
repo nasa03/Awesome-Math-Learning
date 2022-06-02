@@ -432,6 +432,8 @@
 
 - ### :writing_hand: [Notes by Dirk Kroese](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory/kroese.pdf) — [Original Source](https://people.smp.uq.edu.au/DirkKroese/asitp.pdf)
 
+- ### :tv: [Videos by John Tsitsiklis and Patrick Jaillet](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
 - ### :writing_hand: [Notes by Joseph Watkins](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory/watkins.pdf) — [Original Source](https://www.math.arizona.edu/~jwatkins/notests.pdf)
 
 - ### :black_joker: [Cheatsheet by Peleg Michaeli](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory/michaeli.pdf) — [Original Source](https://web.cs.elte.hu/~mesti/valszam/kepletek)
