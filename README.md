@@ -27,6 +27,7 @@
 - [:comet: Calculus](#comet-calculus)
 - [:cat2: Category Theory](#cat2-category-theory)
 - [:butterfly: Chaos Theory](#butterfly-chaos-theory)
+- [:computer: Computation Theory](#computer-Computation-theory)
 - [:milky_way: Differential Equations](#milky_way-differential-equations)
 - [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
 - [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
@@ -80,9 +81,13 @@
 
 - ### :tv: [Videos by Pavel Grinfeld](https://www.youtube.com/c/MathTheBeautiful/playlists?view=1&sort=dd&shelf_id=0)
 
+- ### :tv: [Videos by German Enciso](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7mTBoA3dZ5Ajp0Nn8OymkwB)
+
 - ### :tv: [Videos by Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ)
 
 - ### :tv: [Videos by Jeffrey Chasnov](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
+
+- ### :tv: [Videos by Natalia Komarova](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9)
 
 - ### :tv: [Videos by Grant Sanderson and Sal Khan](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
@@ -96,13 +101,21 @@
 
 ## :cat2: [Category Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory)
 
+- ### :film_projector: [Cheatsheet by nLab](https://ncatlab.org/nlab/all_pages)
+
+- ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CAT/)
+
 - ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 
 - ### :tv: [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
 
+- ### :tv: [Videos by Paul-André Melliès](https://github.com/pamellies/lambda-calculus-and-categories)
+
 - ### :book: [Book by Ivan Murashko and others](https://github.com/CatTheoryByExample/book)
 
 - ### :tv: [Videos by Brendan Fong and others](http://brendanfong.com/programmingcats.html)
+
+- ### :film_projector: [Slides by Marcelo Fiore and Jamie Vicary](https://www.cl.cam.ac.uk/teaching/2122/L118/)
 
 - ### :tv: [Videos by David Spivak and Brendan Fong](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 
@@ -125,6 +138,28 @@
 - ### :tv: [Videos by Steven Strogatz](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
 
 - ### :writing_hand: [Notes by Geoffrey Goodson](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory/goodson.pdf) — [Original Source](http://www.issp.ac.ru/ebooks/books/open/Chaos_Fractal_Geometry.pdf)
+
+## :computer: [Computation Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Computation-Theory)
+
+- ### :film_projector: [Slides by Anuj Dawar](https://www.cl.cam.ac.uk/teaching/2122/Complexity/)
+
+- ### :film_projector: [Slides by Vann McGee](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/)
+
+- ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CompTheory/)
+
+- ### :film_projector: [Slides by Derek Bridge](http://www.cs.ucc.ie/~dgb/courses/toc/lectures.html)
+
+- ### :tv: [Videos by Michael Sipser](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+
+- ### :writing_hand: [Notes I by Scott Aaronson](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
+
+- ### :writing_hand: [Notes II by Scott Aaronson](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
+
+- ### :writing_hand: [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6810/2021fa/)
+
+- ### :film_projector: [Slides from University of Washington](http://courses.cs.washington.edu/courses/cse531/)
+
+- ### :tv: [Videos by Nathan Brunelle and David Evans](https://uvatoc.github.io/)
 
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations)
 
@@ -157,6 +192,8 @@
 ## :man_juggling: [Discrete Mathematics](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Discrete-Mathematics)
 
 - ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg)
+
+- ### :writing_hand: [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6815/2019fa/)
 
 - ### :writing_hand: [Notes by Jieyou Xu](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Discrete-Mathematics/xu.pdf) — [Original Source](https://github.com/jieyouxu/COMP0147-Discrete-Mathematics-Notes)
 
@@ -266,9 +303,15 @@
 
 - ### :tv: [Videos by Brit Cruise](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x)
 
+- ### :film_projector: [Slides by Madhu Sudan](https://ocw.mit.edu/courses/6-895-essential-coding-theory-fall-2004/)
+
+- ### :film_projector: [Slides by Muriel Médard](https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/)
+
 - ### :tv: [Videos by Thomas Cover](https://www.youtube.com/user/classxteam/playlists)
 
 - ### :tv: [Videos by Jakob Foerster](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+
+- ### :film_projector: [Slides by Yury Polyanskiy](https://ocw.mit.edu/courses/6-441-information-theory-spring-2016/)
 
 - ### :tv: [Videos by Raymond Yeung](https://www.youtube.com/playlist?list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
 
@@ -280,13 +323,19 @@
 
 - ### :black_joker: [Cheatsheet by Hugo Touchette](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/touchette.pdf)
 
+- ### :writing_hand: [Notes by Paul Penfield and Seth Lloyd](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/)
+
 - ### :writing_hand: [Notes by John Daugman](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/daugman.pdf) — [Original Source](https://www.cl.cam.ac.uk/teaching/0809/InfoTheory/InfoTheoryLectures.pdf)
 
 - ### :black_joker: [Cheatsheet by Lucile Baumann-Madoulaud](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Information-Theory/baumann-madoulaud.pdf) — [Original Source](https://github.com/LucileM/cheatsheet-ITC-EPFL)
 
 ## :mechanical_arm: [Linear Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Linear-Algebra)
 
+- ### :film_projector: [Slides by Phil Klein](http://cs.brown.edu/courses/cs053/current/index.htm)
+
 - ### :tv: [Videos by Sal Khan](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
+
+- ### :tv: [Videos by Ezra Miller](https://www4.math.duke.edu/media/collections.php)
 
 - ### :tv: [Videos by Ahmad Bazzi](https://www.youtube.com/playlist?list=PL-DDW8QIRjNOv5V6wqyCn781CY8_znkKh)
 
@@ -352,6 +401,8 @@
 
 - ### :tv: [Videos by Alexander Ihler](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 
+- ### :tv: [Slides by Dmitry Panchenko](https://ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/)
+
 - ### :tv: [Videos by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
 - ### :tv: [Videos by Yaser Abu-Mostafa](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
@@ -361,6 +412,8 @@
 - ### :tv: [Videos by Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 - ### :film_projector: [Slides by Joan Bruna and others](https://github.com/joanbruna/MathsDL-spring19)
+
+- ### :film_projector: [Slides by Ryan Rifkin and others](https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/)
 
 - ### :writing_hand: [Notes by Tao Sun](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/sun.pdf) — [Original Source](https://github.com/suniique/ETHz-AML-2020-Notes)
 
@@ -391,6 +444,12 @@
 - ### :black_joker: Cheatsheets on [Essential Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/cetin_eml.pdf) and [Advanced Machine Learning](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Machine-Learning/cetin_aml.pdf) by Doruk Çetin — [Original Source](https://github.com/dcetin/eth-cs-notes/tree/master/cheatsheets)
 
 ## :thought_balloon: [Mathematical Logic](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Mathematical-Logic)
+
+- ### :tv: [Videos by P.D. Magnus](https://www.youtube.com/channel/UCTBzdytnAY1ePUJhOB9rRWg/playlists)
+
+- ### :film_projector: [Slides by Larry Paulson](https://www.cl.cam.ac.uk/teaching/2122/LogicProof/)
+
+- ### :film_projector: [Slides by Christopher Pulte](https://www.cl.cam.ac.uk/teaching/2122/HLog+ModC/)
 
 - ### :writing_hand: [Notes by Stefan Bilaniuk](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Mathematical-Logic/bilaniuk.pdf) — [Original Source](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf)
 
@@ -424,9 +483,15 @@
 
 ## :game_die: [Probability Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory)
 
+- ### :film_projector: [Slides by Eli Upfal](http://cs.brown.edu/courses/csci1550/)
+
 - ### :tv: [Videos by Claudio Landim](https://www.youtube.com/playlist?list=PLo4jXE-LdDTS5BYqea-LcHdtjKwVcepP7)
 
 - ### :tv: [Videos by Lê Nguyên Hoang](https://www.youtube.com/playlist?list=PLie7a1OUTSah_tx-Ly2lj_p_omzjcS_o8)
+
+- ### :tv: [Videos I by Michael Cranston](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2)
+
+- ### :tv: [Videos II by Michael Cranston](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
 
@@ -526,6 +591,8 @@
 
 - ### :tv: [Videos on Tensor Calculus by Robert Davie](https://www.youtube.com/playlist?list=PLeFwDGOexoe-FLX3kEMSkoWG6Cuck_8Xb)
 
+- ### :film_projector: [Slides on Discrete Structures and Probability by Robert Lewis](https://cs22.cafe/)
+
 - ### :tv: [Videos on Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
 
 - ### :tv: [Slides on Homotopy Type Theory by Emily Riehl](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/riehl.pdf) — [Original Source](https://github.com/emilyriehl/721)
@@ -537,6 +604,10 @@
 - ### :black_joker: [Cheatsheet on Undergraduate Mathematics by Rutuj Gavankar](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
 
 - ### :writing_hand: [Notes on Undergraduate Mathematics by Nathan Typanski](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics/typanski.pdf) — [Original Source](https://github.com/nathantypanski/texnotes)
+
+- ### :film_projector: [Slides on Mathematics for Computer Science by Tom Leighton and Marten van Dijk](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+
+- ### :film_projector: [Slides on Mathematics in Toys and Games by Jing Li, Erik Demaine and Melissa Gymrek](https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/)
 
 <!-- MARKDOWN LINKS -->
 
