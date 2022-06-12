@@ -47,7 +47,7 @@
 - [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
 - [:wrestling: Surreal Numbers](#wrestling-surreal-numbers)
 - [:globe_with_meridians: Topology](#globe_with_meridians-topology)
-- [:slot_machine: Random Topics](#slot_machine-random-topics)
+- [:slot_machine: Various Topics](#slot_machine-various-topics)
 
 ## :ring: [Abstract Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra)
 
@@ -139,7 +139,7 @@
 
 - ### :writing_hand: [Notes by Geoffrey Goodson](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory/goodson.pdf) — [Original Source](http://www.issp.ac.ru/ebooks/books/open/Chaos_Fractal_Geometry.pdf)
 
-## :computer: [Computation Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Computation-Theory)
+## :computer: Computation Theory
 
 - ### :film_projector: [Slides by Anuj Dawar](https://www.cl.cam.ac.uk/teaching/2122/Complexity/)
 
@@ -583,7 +583,7 @@
 
 - ### :writing_hand: Notes on [Complex Manifolds](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology/dadhley_cm.pdf) and [Toric Geometry](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology/dadhley_tg.pdf) by Richie Dadhley — [Original Source](https://richie291.wixsite.com/theoreticalphysics/projects-2)
 
-## :slot_machine: [Random Topics](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Random-Topics)
+## :slot_machine: [Various Topics](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Various-Topics)
 
 - ### :books: [Collection of Math Notes](https://www.math.miami.edu/~dsolis/notes.html)
 
