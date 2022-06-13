@@ -24,10 +24,11 @@
 ## Table of Contents
 
 - [:ring: Abstract Algebra](#ring-abstract-algebra)
-- [:comet: Calculus](#comet-calculus)
+- [:roller_coaster: Calculus](#roller_coaster-calculus)
 - [:cat2: Category Theory](#cat2-category-theory)
 - [:butterfly: Chaos Theory](#butterfly-chaos-theory)
-- [:computer: Computation Theory](#computer-Computation-theory)
+- [:unicorn: Complex Analysis](#unicorn-complex-analysis)
+- [:computer: Computation Theory](#computer-computation-theory)
 - [:milky_way: Differential Equations](#milky_way-differential-equations)
 - [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
 - [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
@@ -43,6 +44,7 @@
 - [:triangular_ruler: Measure Theory](#triangular_ruler-measure-theory)
 - [:abacus: Number Theory](#abacus-number-theory)
 - [:game_die: Probability Theory](#game_die-probability-theory)
+- [:horse: Real Analysis](#horse-real-analysis)
 - [:basket: Set Theory](#basket-set-theory)
 - [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
 - [:wrestling: Surreal Numbers](#wrestling-surreal-numbers)
@@ -51,7 +53,15 @@
 
 ## :ring: [Abstract Algebra](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra)
 
+- ### :tv: [Videos by Math I Like](https://www.youtube.com/playlist?list=PL7iNT_qlwE2fQvCGAx81v35ppHmPRvZJs)
+
+- ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)
+
+- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
+
 - ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
+
+- ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
 
 - ### :tv: [Videos by Svetlana Makarova](https://www.youtube.com/playlist?list=PLgKjq_nhy2RadlA1XE6JxGkwUuSR-cx1m)
 
@@ -69,11 +79,13 @@
 
 - ### :writing_hand: [Videos by Michael​ ​Harrison and Liliana​ ​de​ ​Castro](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 
-## :comet: [Calculus](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Calculus)
+## :roller_coaster: [Calculus](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Calculus)
 
 - ### :writing_hand: [Notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
 
 - ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+
+- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz4R-2yzZDbxRuioaOjGml3)
 
 - ### :tv: [Videos by Denis Auroux](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
@@ -139,6 +151,14 @@
 
 - ### :writing_hand: [Notes by Geoffrey Goodson](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory/goodson.pdf) — [Original Source](http://www.issp.ac.ru/ebooks/books/open/Chaos_Fractal_Geometry.pdf)
 
+## :unicorn: Complex Analysis
+
+- ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wzJcFNGw7t4tehgzhFtBpm)
+
+- ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtIc75sLYaVEBt0QNqVbdmZ)
+
+- ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
+
 ## :computer: Computation Theory
 
 - ### :film_projector: [Slides by Anuj Dawar](https://www.cl.cam.ac.uk/teaching/2122/Complexity/)
@@ -151,11 +171,11 @@
 
 - ### :tv: [Videos by Michael Sipser](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 
-- ### :writing_hand: [Notes I by Scott Aaronson](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
-
-- ### :writing_hand: [Notes II by Scott Aaronson](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
+- ### :writing_hand: [Notes Part I by Scott Aaronson](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
 
 - ### :writing_hand: [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6810/2021fa/)
+
+- ### :writing_hand: [Notes Part II by Scott Aaronson](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
 
 - ### :film_projector: [Slides from University of Washington](http://courses.cs.washington.edu/courses/cse531/)
 
@@ -164,6 +184,8 @@
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Differential-Equations)
 
 - ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists?view=50&sort=dd&shelf_id=4)
+
+- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)
 
 - ### :tv: [Videos by Pavel Grinfeld](https://www.youtube.com/playlist?list=PLlXfTHzgMRUK56vbQgzCVM9vxjKxc8DCr)
 
@@ -264,6 +286,8 @@
 - ### :writing_hand: [Notes Combinatorial Structures in Graph Theory by Tero Harju](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Discrete-Mathematics/harju_2.pdf) — [Original Source](https://users.utu.fi/harju/Structures/Structure2018.pdf)
 
 ## :family_man_woman_girl_boy: [Group Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Group-Theory)
+
+- ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51pjBvvCPipgAT3SYpIiIsJ)
 
 - ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
@@ -475,6 +499,12 @@
 
 ## :abacus: [Number Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Number-Theory)
 
+- ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1x_AmA8lhrPB_plInV_wR8Y)
+
+- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqwAgBzVFVqZNMcVKpOOAA7c)
+
+- ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
+
 - ### :writing_hand: [Notes by Alina Ostafe](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Number-Theory/ostafe.pdf) — [Original Source](https://github.com/skityl/NumberTheory/tree/master/Notes)
 
 - ### :writing_hand: [Notes by Otto Forster](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Number-Theory/forster.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf)
@@ -489,11 +519,11 @@
 
 - ### :tv: [Videos by Lê Nguyên Hoang](https://www.youtube.com/playlist?list=PLie7a1OUTSah_tx-Ly2lj_p_omzjcS_o8)
 
-- ### :tv: [Videos I by Michael Cranston](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2)
-
-- ### :tv: [Videos II by Michael Cranston](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
-
 - ### :tv: [Videos by Mathematical Monk](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
+
+- ### :tv: [Videos Part I by Michael Cranston](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2)
+
+- ### :tv: [Videos Part II by Michael Cranston](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
 
 - ### :writing_hand: [Notes by Dirk Kroese](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory/kroese.pdf) — [Original Source](https://people.smp.uq.edu.au/DirkKroese/asitp.pdf)
 
@@ -514,6 +544,12 @@
 - ### :black_joker: [Cheatsheet by William Chen and Joe Blitzstein](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory/chen_and_blitzstein.pdf) — [Original Source](https://github.com/wzchen/probability_cheatsheet)
 
 - ### :black_joker: [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Probability-Theory/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+
+## :horse: Real Analysis
+
+- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxqaF-Q7MSyeSG1W1_xaQoS)
+
+- ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO)
 
 ## :basket: [Set Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Set-Theory)
 
@@ -561,9 +597,15 @@
 
 - ### :tv: [Videos Part I by Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/index.html)
 
+- ### :tv: [Videos Part I by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX)
+
 - ### :tv: [Videos Part II by Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil/topology-2021/index.html)
 
+- ### :tv: [Videos Part II by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj50Un2NpfPySgXctRQK7CLG-)
+
 - ### :tv: [Videos Part III by Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil/algebraic-topology-2022/index.html)
+
+- ### :tv: [Videos Part III by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53Rwr6ly1oUasJXR2Qerwgj)
 
 - ### :writing_hand: [Notes by Holworth](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Topology/holworth.pdf) — [Original Source](https://github.com/Holworth/MathmaticsNotes/tree/master/Topology)
 
