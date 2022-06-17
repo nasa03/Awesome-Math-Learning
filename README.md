@@ -67,8 +67,6 @@
 
 - ### :tv: [Videos by Krishna Hanumanthu](https://nptel.ac.in/courses/111106131)
 
-- ### :writing_hand: [Notes by Evan Chen](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/chen.pdf) — [Original Source](https://web.evanchen.cc/napkin.html)
-
 - ### :writing_hand: [Notes by Miles Reid](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/reid.pdf) — [Original Source](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf)
 
 - ### :writing_hand: [Notes on by Dana Ernst](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Abstract-Algebra/ernst.pdf) — [Original Source](https://github.com/dcernst/IBL-AbstractAlgebra)
@@ -629,9 +627,13 @@
 
 - ### :books: [Collection of Math Notes](https://www.math.miami.edu/~dsolis/notes.html)
 
+- ### :writing_hand: [Infinitely Large Napkin by Evan Chen](https://web.evanchen.cc/napkin.html)
+
 - ### :writing_hand: [Notes from Cambridge by Dexter Chua](http://dec41.user.srcf.net/notes/)
 
 - ### :tv: [Videos on Tensor Calculus by Robert Davie](https://www.youtube.com/playlist?list=PLeFwDGOexoe-FLX3kEMSkoWG6Cuck_8Xb)
+
+- ### :book: [Symmetry Book by Marc Bezem and others](https://github.com/UniMath/SymmetryBook)
 
 - ### :film_projector: [Slides on Discrete Structures and Probability by Robert Lewis](https://cs22.cafe/)
 
