@@ -137,6 +137,8 @@
 
 - ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
 
+- ### :book: [Book by Jiří Adámek, Horst Herrlich and George Strecker](http://katmat.math.uni-bremen.de/acc/acc.pdf)
+
 ## :butterfly: [Chaos Theory](https://github.com/tensorush/Awesome-Math-Lectures/blob/master/Chaos-Theory)
 
 - ### :tv: [Videos by Shane Ross](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
