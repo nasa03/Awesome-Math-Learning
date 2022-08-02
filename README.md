@@ -67,11 +67,11 @@
 
 - ### :writing_hand: [Notes by Miles Reid](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/reid.pdf) — [Original Source](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf)
 
+- ### :writing_hand: [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-350)
+
 - ### :writing_hand: [Notes on by Dana Ernst](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/ernst.pdf) — [Original Source](https://github.com/dcernst/IBL-AbstractAlgebra)
 
 - ### :writing_hand: [Notes by Robert Howlett](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/howlett.pdf) — [Original Source](https://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf)
-
-- ### :writing_hand: [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-350)
 
 - ### :writing_hand: [Videos by Michael​ ​Harrison and Liliana​ ​de​ ​Castro](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 
