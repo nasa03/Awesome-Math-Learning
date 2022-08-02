@@ -59,8 +59,6 @@
 
 - ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
 
-- ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
-
 - ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
 
 - ### :tv: [Videos by Svetlana Makarova](https://www.youtube.com/playlist?list=PLgKjq_nhy2RadlA1XE6JxGkwUuSR-cx1m)
@@ -73,7 +71,7 @@
 
 - ### :writing_hand: [Notes by Robert Howlett](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/howlett.pdf) — [Original Source](https://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf)
 
-- ### :writing_hand: [Notes on by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-370)
+- ### :writing_hand: [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-350)
 
 - ### :writing_hand: [Videos by Michael​ ​Harrison and Liliana​ ​de​ ​Castro](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 
@@ -115,6 +113,10 @@
 
 - ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CAT/)
 
+- ### :tv: [Videos by Jeremy Mann](https://www.youtube.com/playlist?list=PLtiFxYEaQEcjabR9lRBvMlfs9TgGZXwKV)
+
+- ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
+
 - ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 
 - ### :tv: [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
@@ -124,6 +126,10 @@
 - ### :book: [Book by Ivan Murashko and others](https://github.com/CatTheoryByExample/book)
 
 - ### :tv: [Videos by Brendan Fong and others](http://brendanfong.com/programmingcats.html)
+
+- ### :book: [Book by Institute for Advanced Study](https://homotopytypetheory.org/book/)
+
+- ### :film_projector: [Slides by Emily Riehl](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/riehl.pdf) — [Original Source](https://github.com/emilyriehl/721)
 
 - ### :film_projector: [Slides by Marcelo Fiore and Jamie Vicary](https://www.cl.cam.ac.uk/teaching/2122/L118/)
 
@@ -170,6 +176,8 @@
 - ### :film_projector: [Slides by Derek Bridge](http://www.cs.ucc.ie/~dgb/courses/toc/lectures.html)
 
 - ### :tv: [Videos by Michael Sipser](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+
+- ### :tv: [Videos by Ghassan Shobaki](https://www.youtube.com/playlist?list=PL6KMWPQP_DM9Y7IgaEWa_OHAl3RkAQwqH)
 
 - ### :writing_hand: [Notes Part I by Scott Aaronson](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
 
@@ -232,6 +240,8 @@
 - ### :tv: [Videos by Claudio Landim](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
 
 - ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
+
+- ### :tv: [Videos by Physics and Math Lectures](https://www.youtube.com/channel/UCCvMoz5sZaGKuJDKuY9Nqrg/playlists)
 
 - ### :writing_hand: [Notes by Michael Cowling](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Functional-Analysis/cowling.pdf) — [Original Source](https://web.maths.unsw.edu.au/~potapov/5605_2014/mcowling-fa-notes.pdf)
 
@@ -299,7 +309,7 @@
 
 - ### :writing_hand: [Notes by Joel Beeren](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Group-Theory/beeren.pdf) — [Original Source](https://web.maths.unsw.edu.au/~danielch/modules12/beeren_notes.pdf)
 
-- ### :writing_hand: [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Group-Theory/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-350)
+- ### :writing_hand: [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Group-Theory/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/blob/master/MATH-370)
 
 - ### :writing_hand: [Notes by Samuel Coskey](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Group-Theory/coskey.pdf) — [Original Source](https://github.com/scoskey/m522)
 
@@ -553,6 +563,8 @@
 
 ## :basket: [Set Theory](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Set-Theory)
 
+- ### :tv: [Notes by Mathoma](https://www.youtube.com/playlist?list=PLpzmRsG7u_gpZyi0w80IBk51k6ClSJRWK)
+
 - ### :writing_hand: [Notes by Sylvain Poirier](http://www.settheory.net/)
 
 - ### :writing_hand: [Notes by Tero Harju](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Set-Theory/harju.pdf) — [Original Source](https://users.utu.fi/harju/orderedsets/Mainorder.pdf)
@@ -588,6 +600,10 @@
 - ### :tv: [HACKENBUSH: a window to a new world of math by Owen Maitzen](https://www.youtube.com/watch?v=ZYj4NkeGPdM)
 
 ## :globe_with_meridians: [Topology](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Topology)
+
+- ### :tv: [Videos by Boarbarktree](https://www.youtube.com/playlist?list=PLcaesJ30fdQ_qyizYsFvlm9LkJvj2CxxU)
+
+- ### :tv: [Videos by Jeremy Mann](https://www.youtube.com/playlist?list=PLtiFxYEaQEciDwv1jzN2qqvdgxiPjKzgz)
 
 - ### :tv: [Videos by Sidney Morris](https://www.topologywithouttears.net/)
 
@@ -637,19 +653,21 @@
 
 - ### :book: [Symmetry Book by Marc Bezem and others](https://github.com/UniMath/SymmetryBook)
 
+- ### :tv: [Chaos Videos by Jos Leys, Étienne Ghys and Aurélien Alvarez](https://www.chaos-math.org/en.html)
+
 - ### :film_projector: [Slides on Discrete Structures and Probability by Robert Lewis](https://cs22.cafe/)
 
 - ### :tv: [Videos on Introduction to Higher Mathematics by Bill Shillito](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
 
-- ### :tv: [Slides on Homotopy Type Theory by Emily Riehl](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Random-Topics/riehl.pdf) — [Original Source](https://github.com/emilyriehl/721)
+- ### :tv: [Dimensions Videos by Jos Leys, Étienne Ghys and Aurélien Alvarez](http://www.dimensions-math.org/)
 
 - ### :tv: [Videos on Mathematics for Machine Learning by Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
-- ### :black_joker: [Cheatsheet All-In-One Mathematics by Alex Spartalis](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Random-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
+- ### :black_joker: [Cheatsheet All-In-One Mathematics by Alex Spartalis](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Various-Topics/spartalis.pdf) — [Original Source](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf)
 
-- ### :black_joker: [Cheatsheet on Undergraduate Mathematics by Rutuj Gavankar](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Random-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
+- ### :black_joker: [Cheatsheet on Undergraduate Mathematics by Rutuj Gavankar](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Various-Topics/gavankar.pdf) — [Original Source](https://github.com/rutujsg/math_cheat_sheet)
 
-- ### :writing_hand: [Notes on Undergraduate Mathematics by Nathan Typanski](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Random-Topics/typanski.pdf) — [Original Source](https://github.com/nathantypanski/texnotes)
+- ### :writing_hand: [Notes on Undergraduate Mathematics by Nathan Typanski](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Various-Topics/typanski.pdf) — [Original Source](https://github.com/nathantypanski/texnotes)
 
 - ### :film_projector: [Slides on Mathematics for Computer Science by Tom Leighton and Marten van Dijk](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
