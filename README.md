@@ -77,6 +77,8 @@
 
 ## :roller_coaster: [Calculus](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Calculus)
 
+- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfXY3_0XMufwFPMk3gU02JVL)
+
 - ### :writing_hand: [Notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
 
 - ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
@@ -161,6 +163,8 @@
 
 - ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wzJcFNGw7t4tehgzhFtBpm)
 
+- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfV4QgPg75y0TvUsjJf48IWW)
+
 - ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtIc75sLYaVEBt0QNqVbdmZ)
 
 - ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
@@ -191,6 +195,8 @@
 
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Equations)
 
+- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfXIwSKeTyxU5LTqdRZ8Urza)
+
 - ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists?view=50&sort=dd&shelf_id=4)
 
 - ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)
@@ -210,6 +216,8 @@
 ## :flying_disc: [Differential Geometry](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry)
 
 - ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
+
+- ### :tv: [Videos by Lei Chen and others](https://www.youtube.com/playlist?list=PLOToEg4Hq27YOTIvTADD7yLIlSV0IBXt9)
 
 - ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)
 
@@ -371,6 +379,8 @@
 
 - ### :tv: [Videos by Ezra Miller](https://www4.math.duke.edu/media/collections.php)
 
+- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfX4ggFIl8q6ybu9AYEezkJ-)
+
 - ### :tv: [Videos by Ahmad Bazzi](https://www.youtube.com/playlist?list=PL-DDW8QIRjNOv5V6wqyCn781CY8_znkKh)
 
 - ### :tv: [Videos by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
@@ -508,6 +518,8 @@
 - ### :writing_hand: [Notes by Steven Nguyen](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Measure-Theory/nguyen.pdf) — [Original Source](https://github.com/skityl/MeasureTheory/blob/master/Notes/math5825_lecture_notes.pdf)
 
 ## :abacus: [Number Theory](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Number-Theory)
+
+- ### :tv: [Videos by zetamath](https://www.youtube.com/playlist?list=PLbaA3qJlbE93DiTYMzl0XKnLn5df_QWqY)
 
 - ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1x_AmA8lhrPB_plInV_wR8Y)
 
