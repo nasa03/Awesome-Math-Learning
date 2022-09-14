@@ -111,7 +111,9 @@
 
 ## :cat2: [Category Theory](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory)
 
-- ### :film_projector: [Cheatsheet by nLab](https://ncatlab.org/nlab/all_pages)
+- ### :black_joker: [Cheatsheet by nLab](https://ncatlab.org/nlab/all_pages)
+
+- ### :writing_hand: [Notes by Egbert Rijke](https://www.andrew.cmu.edu/user/erijke/hott/)
 
 - ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CAT/)
 
@@ -119,9 +121,13 @@
 
 - ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
 
+- ### :tv: [Videos by Robert Harper](https://www.youtube.com/playlist?list=PL1-2D_rCQBarjdqnM21sOsx09CtFSVO6Z)
+
 - ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
 
 - ### :tv: [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
+
+- ### :tv: [Videos by Roberta Bonacina](https://www.youtube.com/playlist?list=PLsY-pzz3J1ITOQKNIjtWKIFmmN7tE8p8N)
 
 - ### :tv: [Videos by Paul-André Melliès](https://github.com/pamellies/lambda-calculus-and-categories)
 
@@ -134,6 +140,8 @@
 - ### :film_projector: [Slides by Emily Riehl](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/riehl.pdf) — [Original Source](https://github.com/emilyriehl/721)
 
 - ### :film_projector: [Slides by Marcelo Fiore and Jamie Vicary](https://www.cl.cam.ac.uk/teaching/2122/L118/)
+
+- ### :tv: [Videos by Andrej Bauer and Jaka Smrekar](https://www.youtube.com/playlist?list=PL-47DDuiZOMCRDiXDZ1fI0TFLQgQqOdDa)
 
 - ### :tv: [Videos by David Spivak and Brendan Fong](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 
