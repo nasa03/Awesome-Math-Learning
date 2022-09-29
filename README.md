@@ -1,13 +1,4 @@
-# :sunglasses: :scroll: **Awesome Maths Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Maths-Learning/pulls)
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![GNU GPL v3.0][license-shield]][license-url]
+# :sunglasses: :scroll: **Awesome Maths Learning**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
@@ -692,16 +683,3 @@
 - ### :film_projector: [Slides on Mathematics for Computer Science by Tom Leighton and Marten van Dijk](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
 - ### :film_projector: [Slides on Mathematics in Toys and Games by Jing Li, Erik Demaine and Melissa Gymrek](https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/)
-
-<!-- MARKDOWN LINKS -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-Maths-Learning.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-Maths-Learning/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-Maths-Learning.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-Maths-Learning/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-Maths-Learning.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-Maths-Learning/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-Maths-Learning.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-Maths-Learning/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-Maths-Learning.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-Maths-Learning/blob/master/LICENSE.md
